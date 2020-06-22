@@ -1,0 +1,46 @@
+html {
+    margin:    0 auto;
+    max-width: 960px;
+}
+
+body {
+    background-color:#F5F5F5;
+}
+
+.tagline {
+	color: #8c8c8c;	
+}
+
+.ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
+	  background: red;
+	  outline: black;
+}
+
+a {
+    color: red;
+}
+
+.demo {cursor:pointer}
+
+.click_links {
+	cursor:pointer;
+    color: red;
+}
+
+#homeChart {
+    margin:    0 auto;
+    max-width: 580px;
+}
+
+button {
+ word-wrap: break-word;         /* All browsers since IE 5.5+ */
+ overflow-wrap: break-word;     /* Renamed property in CSS3 draft spec */ 
+}
+
+#kContainer {
+    min-height: 580px;
+}
+
+em {
+	font-style: italic;
+}
