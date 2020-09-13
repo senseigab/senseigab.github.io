@@ -4,15 +4,18 @@ title: Research
 permalink: /research/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I will try to make my papers accessible. If ever you want to have a copy, please email me **if the paper is not linked below.** 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### Thesis
+The Newsworthiness of an Armed Conflict: A Corpus-Assisted Multimodal Discourse Analysis of Selected Newspaper Reports (*Benemeritus*) (to be uploaded on December 2020)
+* Adviser: Rachelle B. Lintao, Ph.D.
+* Committee: Marilu R. Madrunio, Ph.D. (chair); Alejandro S. Bernardo, Ph.D. (member); Eden R. Flores, Ph.D. (external member)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### Publication
+* Gapas, W. G. A. (2016). The discourse organization of Philippine university newspaper opinion columns. *Asian Journal of English Language Studies*, *4*, 34-53. <https://ajels.ust.edu.ph/volume-category/volume-4/>
 
-
-[jekyll-organization]: https://github.com/jekyll
+### Conferences
+* Gapas, W. G. A., & Ballesteros-Lintao, R. (2020). The discursive news values of the 2017 Marawi City siege: A corpus-assisted multimodal discourse analysis of selected newspaper reports. *Japan Association of English Corpus Studies (JAECS) 2020 46th Annual Conference*, online event. 
+* Gapas, W. G. A. (2019). Investigating the discursive newsworthiness of the 2017 Marawi City siege. *The 20th English in Southeast Asia Conference*, Raffles Town Club, Singapore. 
+* Gapas, W. G. A. (2018). A discursive news values analysis of the Duterte administration's war on illegal drugs. *The 2018 Linguistic Society of the Philippines National Conference and General Meeting*, Balanga, Bataan.
+* Gapas, W. G. A., & Lintao, R. B. (2017). Spoken communication difficulties and communication strategies of selected medical technology students. *The 2017 Philippine Association of Language Teachers Conference*, University of Santo Tomas, Manila. 
