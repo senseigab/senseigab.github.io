@@ -3,33 +3,31 @@ layout: page
 title: About
 permalink: /about/
 ---
-You can find my curriculum vitae here. (I'll put it here, promise!)
+## Bio
+Wilfred Gabriel Aguirre Gapas (Gab) is currently a master's student in English Language Studies at the University of Santo Tomas, Manila. He obtained his bachelor's degree in English Language Studies (*cum laude*) from the Faculty of Arts and Letters, University of Santo Tomas. He was previously an Instructor at the College of Education, Colegio de San Juan de Letran and a Lecturer at the Institute of Arts and Sciences, Far Eastern University, Manila. He has also delivered seminars on topics such as research ethics, action research in education, and world Englishes, where his audiences range from education professionals to senior high school students.
 
-# Official bionote
+Gab is currently a [National Novel Writing Month (NaNoWriMo)](https://nanowrimo.org) municipal liaison for the Asia::Philippinnes region. He is also a lifetime member of the [Linguistic Society of the Philippines](https://lsphil.net). Furthermore, he runs [The Millennial Linguist](https://twitter.com/linguistatSEA) (@linguistatSEA) on Twitter. He also tweets [@senseigab](https://twitter.com/senseigab).
 
-Wilfred Gabriel Aguirre Gapas (Gab) is currently a master's student in English Language Studies at the University of Santo Tomas, Manila. He was previously an Instructor at the College of Education, Colegio de San Juan de Letran and a Lecturer at the Institute of Arts and Sciences, Far Eastern University, Manila. He has also delivered seminars on topics such as research ethics, action research in education, and world Englishes, where his audiences range from education professionals to senior high school students. 
+**External Links**
+* **ORCID:** 0000-0001-5156-3944
+* **ResearcherID:** C-2287-2019
+* **Academia.edu:**
+* **ResearchGate:**
+* **LinkedIn:**
+* **GitHub Profile:**
 
-As an early career academic in (applied) linguistics, Gab is interested in various topics such as:
-* corpus linguistics, discourse analysis, stylistics, sociolinguistics, pragmatics
-* sociolinguistics: language ideology and politics; language education policy; language, gender and sexuality 
-* language education: (instructed) second language acquisition, second language writing, social justice and equity in language education
-* media linguistics: ludolinguistics, textual construction of knowledge and identity, sensationalism and news reporting practices, populist rhetoric
-* forensic linguistics: deception and aggression, courtroom discourse, statutory interpretation
-* systemic functional linguistics
+## Contact
+For inquiries and invitations, email me at **wgabrielgapas@gmail.com**. Please wait for **two to three** working days for a response.
 
-He also has interest in research issues involving popular culture, social media, fandoms, and migration. 
+If the inquiry relates to my duties as a NaNoWriMo municipal liaison, please send me a personal message at the NaNoWriMo website.
 
-Gab is also a lifetime member of the [Linguistic Society of the Philippines](https://lsphil.net) and runs [The Millennial Linguist](https://twitter.com/linguistatSEA) (@LinguistatSEA) on Twitter. 
+## Areas of interest 
+### (Applied) Linguistics
+* corpus linguistics, discourse analysis, stylistics, sociolinguistics, pragmatics, systemic functional linguistics
+* Sociolinguistics: language ideology and politics; language education policy; language, gender and sexuality 
+* Language education: (instructed) second language acquisition, social justice in language education
+* Media linguistics: ludolinguistics, textual construction of knowledge and identity, sensationalism and news reporting practices, populist rhetoric
+* Forensic linguistics: deception and aggression, courtroom discourse, statutory interpretation
 
-# Research profile
-* ORCID Number: 0000-0001-5156-3944
-* ResearcherID: C-2287-2019
-* ResearchGate | Academia.edu
-
-# Other stuff
-
-I'm also the Asia :: The Philippines municipal liaison for the National Novel Writing Month! If you're interested in writing a novel - or just flex your creativity - join us at the [NaNoWriMo page](https://nanowrimo.org) and look for our region. We're also on Twitter [@pinoywrimos](https://twitter.com/pinoywrimos).
-
-I'm also a video gamer and will stream video games someday! 
-
-I love cats, dogs, ducks, and chickens. 
+### Beyond Linguistics
+Popular culture, social media, fandoms, LGBTQIA+ issues, and migration

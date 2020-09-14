@@ -3,16 +3,23 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
+In this page, you will find more information about my teaching experience and speaking engagements.
 
-I am not teaching at present, but here are the modules I have handled previously. 
+## Teaching
+### My Teaching Philosophy
 
-## Previous courses facilitated: 
-Colegio de San Juan de Letran, Manila (2019-2020, Term 1)
+You can find this teaching philosophy in PDF here.
+
+### Currently facilitating
+**I am not teaching at present, but here are the modules and invited talks I have handled and delivered previously.**
+
+### Previously facilitated 
+**Colegio de San Juan de Letran, Manila** (2019-2020, Term 1)
 * Study and Critical Thinking Skills
 * Purposive Communication
 * Great Books
 
-Far Eastern University, Manila (2016-2017)
+**Far Eastern University, Manila** (2016-2017)
 * Introduction to Language Arts
 * Basic Communication Arts and Skills (Reading and Writing Skills)
 * Intermediate Communication Arts and Skills (Research Writing Skills)
@@ -22,13 +29,13 @@ Far Eastern University, Manila (2016-2017)
 * Effective Speech Communication
 * Public Speaking
 
-## Invited talks
+## Invited talks/seminars
 * "Appreciating Language Realities through Philippine English," Bulacan Agricultural State College, San Ildefonso, Bulacan (August 28, 2019)
+
 * "Introducing World Englishes: One Language, Multiple Identities, Multiple Realities," Senior High School, Far Eastern University, Manila (September 7, 2018)
+
 * "Language, Gender, and Discourses: Things People Should Know" (Parallel Session), The 3rd Communication Conference: Exploring the Realm of Communication, De La Salle University, Manila (August 4-5, 2017)
+
 * "Publication and Research Ethics," Far Eastern University, Manila (March 14, 2017)
+
 * "Action Research" (co-facilitated with Mr. Danny O. Balance), University of Santo Tomas, Manila (October 29, 2015)
-
-## Teaching Philosophy
-
-(You can find this teaching philosophy in PDF here.)
