@@ -8,8 +8,8 @@ This page lists my scholarly contributions on various areas in linguistics and l
 ### MA Thesis
 The Newsworthiness of an Armed Conflict: A Corpus-Assisted Multimodal Discourse Analysis of Selected Newspaper Reports (*Benemeritus*) (to be uploaded on December 2020)
 * Adviser: Rachelle B. Lintao, Ph.D.
-* Committee: Marilu R. Madrunio, Ph.D. (chair); Alejandro S. Bernardo, Ph.D. (member); Eden R. Flores, Ph.D. ( member)
-* [Kaleidographic view of the corpus](https://senseigab.github.io/research/thesisinfo.index.html)
+* Committee: Marilu R. Madrunio, Ph.D. (chair); Alejandro S. Bernardo, Ph.D. (member); Eden R. Flores, Ph.D. (member)
+* [Kaleidographic view of the corpus](https://senseigab.github.io/research/thesisinfo/index.html)
 
 ### Journal articles
 * Gapas, W. G. A. (2016). The discourse organization of Philippine university newspaper opinion columns. *Asian Journal of English Language Studies*, *4*, 34-53. <https://ajels.ust.edu.ph/volume-category/volume-4/>
