@@ -9,10 +9,9 @@ Wilfred Gabriel Aguirre Gapas (Gab) is currently a master's student in English L
 Gab is currently a [National Novel Writing Month (NaNoWriMo)](https://nanowrimo.org) municipal liaison for the Asia::Philippinnes region. He is also a lifetime member of the [Linguistic Society of the Philippines](https://lsphil.net). Furthermore, he runs [The Millennial Linguist](https://twitter.com/linguistatSEA) (@linguistatSEA) on Twitter. He also tweets [@senseigab](https://twitter.com/senseigab).
 
 **External Links**
-* **ORCID:** 0000-0001-5156-3944
-* **ResearcherID:** C-2287-2019
-* **Academia.edu:**
-* **ResearchGate:**
+* **ORCID:** [0000-0001-5156-3944](https://orcid.org/0000-0001-5156-3944)
+* **Web of Science ResearcherID:** [C-2287-2019](https://publons.com/researcher/1753178/wilfred-gabriel-a-gapas/)
+* **ResearchGate:** [link](https://www.researchgate.net/profile/Wilfred_Gabriel_Gapas)
 * **LinkedIn:**
 * **GitHub Profile:**
 
