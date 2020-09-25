@@ -6,7 +6,7 @@ permalink: /presentations/
 This page provides the presentations I have publicly delivered such as conference presentations and invited talks or seminars. My handouts and slide presentations on these occasions will be provided in due course!
 
 ### Conference presentations
-* Gapas, W. G. A., & Ballesteros-Lintao, R. (2020). The discursive news values of the 2017 Marawi City siege: A corpus-assisted multimodal discourse analysis of selected newspaper reports. *Japan Association of English Corpus Studies (JAECS) 2020 46th Annual Conference*, online event. [upcoming]
+* Gapas, W. G. A. (2020). The discursive news values of the 2017 Marawi City siege: A corpus-assisted multimodal discourse analysis of selected newspaper reports. *Japan Association of English Corpus Studies (JAECS) 2020 46th Annual Conference*, online event. [upcoming] ([handouts](https://senseigab.github.io/presentations/JAECSRef.pdf) | slides)
 
 * Gapas, W. G. A. (2019). Investigating the discursive newsworthiness of the 2017 Marawi City siege. *The 20th English in Southeast Asia Conference*, Raffles Town Club, Singapore. 
 
