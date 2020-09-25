@@ -15,18 +15,18 @@ This page contains a list of handouts and links relevant to my research interest
 * Preparing for the Oral Defense
 
 ## Relevant links
-* **Corpus Linguistics** 
+**Corpus Linguistics** 
 - AntConc
 - Corpus of Contemporary American English (COCA)
 - Corpus of Global Web-based English (GloWbe)
 - International Corpus of English (ICE)
 - Lancaster University Corpus Toolbox (LancsBox)
 
-* **Forensic Linguistics** 
+**Forensic Linguistics** 
 - en_clair
 - International Association of Forensic Linguists
 
-* **Linguistics and Language Teaching Organizations**
+**Linguistics and Language Teaching Organizations**
 - Linguistic Society of the Philippines
 - Reading Association of the Philippines
 - Philippine Association of Language Teachers

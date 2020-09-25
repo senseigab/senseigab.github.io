@@ -12,10 +12,12 @@ Coming soon.
 
 You can find this teaching philosophy in PDF here.
 
+---
 ### Currently facilitating
 I am not teaching at present.
 
 
+---
 ### Previously facilitated 
 **Colegio de San Juan de Letran, Manila** (2019-2020, Term 1)
 * Study and Critical Thinking Skills
