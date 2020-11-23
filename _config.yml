@@ -1,7 +1,7 @@
 # Site settings
-title: Wilfred Gabriel GAPAS (gab)
+title: Wilfred Gabriel A. Gapas - teacher, writer, researcher, cat lover
 email: wgabrielgapas@gmail.com
-description: A personal website, where you can find updated info about my research, teaching, and other stuff. For further information, please use the navigation tools above. 
+description: The personal academic homepage of Wilfred Gabriel A. Gapas, an MA candidate in English Language Studies at the University of Santo Tomas, Manila. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: senseigab
