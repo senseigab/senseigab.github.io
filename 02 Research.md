@@ -8,7 +8,7 @@ This page contains a list of research works published and/or presented in academ
 
 Also check out my ORCID and Web of Science ResearcherID:
 * **Web of Science ResearcherID:** [C-2287-2019](https://publons.com/researcher/1753178/wilfred-gabriel-a-gapas/)
-* **ResearchGate:** [link](https://www.researchgate.net/profile/Wilfred_Gabriel_Gapas)
+* **ORCID:** [0000-0001-5156-3944](https://orcid.org/0000-0001-5156-3944)
 
 ### MA Thesis
 [The Newsworthiness of an Armed Conflict: A Corpus-Assisted Multimodal Discourse Analysis of Selected Newspaper Reports](https://senseigab.github.io/research/Gapas2020-ThesisMA.pdf) (*Benemeritus*)
