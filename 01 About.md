@@ -8,11 +8,11 @@ Hello! You can call me Gab. I'm presently an MA Candidate in English Language St
 
 Before graduate school, I received my B.A. in English Language Studies (*cum laude*) from the same university in 2015. During my college years, I served in different capacities (i.e., Outreach Committee Deputy Head, a member of the Board of Representatives, and Vice President for External Affairs) of the UST English Language Studies Society from 2013 to 2015.
 
-I am currently one of the [National Novel Writing Month (NaNoWriMo)](https://nanowrimo.org) Municipal Liaisons for the Asia :: Philippines region. In addition, I am a lifetime member of the [Linguistic Society of the Philippines](https://lsphil.net). 
+I am currently one of the [National Novel Writing Month (NaNoWriMo)](https://nanowrimo.org) Municipal Liaisons for the Philippines. In addition, I am a lifetime member of the [Linguistic Society of the Philippines](https://lsphil.net). 
 
 ### External Profiles
-* [**GitHub Profile**: Link.](https://github.com/senseigab)
-* [**LinkedIn**: Link.](https://ph.linkedin.com/in/gapaswga)
+* [**GitHub Profile**](https://github.com/senseigab)
+* [**LinkedIn**](https://ph.linkedin.com/in/gapaswga)
 * [**Mendeley**: Wilfred Gabriel A. Gapas](https://mendeley.com/profiles/wilfred-gabriel-gapas)
 * [**ORCID**: 0000-0001-5156-3944](https://orcid.org/0000-0001-5156-3944)
 * [**ResearchGate**: Wilfred Gabriel A. Gapas](https://www.researchgate.net/profile/Wilfred_Gabriel_Gapas)
