@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Speaking Engagements
-permalink: /speaking/
+title: Talk
+permalink: /talk/
 ---
 
 This page lists my past speaking engagements in talks, seminars, and workshops. This will be updated regularly.
