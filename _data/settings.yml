@@ -11,7 +11,7 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'Blog'
-      url: '/'
+      url: '/index.html'
     - title: 'About Gab'
       url: '/about'
     - title: 'Teaching'
