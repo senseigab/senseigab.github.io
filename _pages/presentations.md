@@ -28,7 +28,7 @@ My handouts and slide presentations on these occasions will be posted soon. If y
 
 - "Appreciating Language Realities through Philippine English," Bulacan Agricultural State College, San Ildefonso, Bulacan (August 28, 2019)
 
-   This was a seminar where I introduced the idea of language variation in the English language. To do so, I focused on Philippine English and described how it is distinct from other Englishes. This seminar was designed to encourage students to be involved in linguistic activism - that is, when they hear people say something harmful about language and their speakers, they would be able to challenge it using some of the information they learned in this seminar. Slides are available [here](https://senseigab.github.io/engage/GAPAS2019_BASC.pdf). 
+   This was a seminar where I introduced the idea of language variation in the English language. To do so, I focused on Philippine English and described how it is distinct from other Englishes. This seminar was designed to encourage students to be involved in linguistic activism - that is, when they hear people say something harmful about language and their speakers, they would be able to challenge it using some of the information they learned in this seminar. Slides are available [here](https://senseigab.github.io/presentations/00_talks/GAPAS2019_BASC.pdf). 
 
 - "Introducing World Englishes: One Language, Multiple Identities, Multiple Realities," Senior High School, Far Eastern University, Manila (September 7, 2018)
 
