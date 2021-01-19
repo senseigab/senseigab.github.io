@@ -10,12 +10,12 @@ header_settings:
 
 menu_settings:
   menu_items:
+    - title: 'About Gab'
+      url: '/about'
     - title: 'Latest'
       url: '/'
     - title: 'Projects'
       url: '/projects/'
-    - title: 'About Gab'
-      url: '/about'
     - title: 'Teaching'
       url: '/teaching' 
     - title: 'Services'
