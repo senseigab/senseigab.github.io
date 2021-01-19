@@ -10,8 +10,8 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Blog'
-      url: '/index.html'
+    - title: 'Latest'
+      url: '/'
     - title: 'About Gab'
       url: '/about'
     - title: 'Teaching'
