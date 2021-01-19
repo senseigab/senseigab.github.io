@@ -1,10 +1,12 @@
 ---
 title: Contact
-subtitle: Journal comes with a built-in contact form, that's free and easy to set up.
-description: A stunning personal blog Jekyll theme with an image-focused design.
+subtitle: Information on how to contact me for almost anything
+description: Information on how to contact me for almost anything
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
+Use the form below if you have questions or invitations. If you would like to invite me to speak, please email me directly as well. If the inquiry relates to my duties as a NaNoWriMo municipal liaison, please send me a personal message at the NaNoWriMo website.
+
 {% include contact-form.html %}
 
-We've made a contact form that you can use with [Formspree](https://formspree.io/create/jekyllthemes) to handle up to 50 submissions per month for free. You could also easily switch out the end-point to use another contact form service.
+This [Formspree](https://formspree.io/create/jekyllthemes) form at the moment can only handle 50 submissions per month.

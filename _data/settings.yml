@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Gabriel Gapas
+  site_title: Wilfred Gabriel Gapas
   site_tagline: Language Teacher and Applied Linguist (in training)
   favicon_image: /images/favicon.png
 
@@ -10,12 +10,22 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Latest'
+    - title: 'Blog'
       url: '/'
+    - title: 'About Gab'
+      url: '/about'
+    - title: 'Teaching'
+      url: '/teaching' 
+    - title: 'Services'
+      url: '/services'
     - title: 'Projects'
       url: '/projects/'
-    - title: 'About'
-      url: '/about'
+    - title: 'Presentations'
+      url: '/presentations'
+    - title: 'Publications'
+      url: '/publications'
+    - title: 'Resources'
+      url: '/resources'
     - title: 'Contact'
       url: '/contact'
 
