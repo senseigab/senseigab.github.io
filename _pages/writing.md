@@ -1,7 +1,7 @@
 ---
-title: Publications
-subtitle: Gab's published work
-description: Gab's published work
+title: Writing
+subtitle: Academic and Non-Academic Work
+description: Academic and Non-Academic Work
 featured_image: /images/demo/demo-portrait.jpg
 ---
 

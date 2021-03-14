@@ -1,30 +1,33 @@
 ---
 title: Teaching
-subtitle: Information about current and past modules facilitated
-description: Information about current and past modules facilitated
+subtitle: Educating and (hopefully) inspiring others
+description: Educating and (hopefully) inspiring others
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
 ![](/images/demo/demo-landscape.jpg)
 ### Teaching Philosophy
 
-To come here soon!
+You can find my teaching philosophy here (in PDF; coming soon).
 
-### Current modules
-I am not teaching at present, but here are the modules I facilitated before.
+### Currently
 
-### Past modules
-**Colegio de San Juan de Letran, Manila** (2019-2020, Term 1)
+None 
+
+### Previously
+
+[**Colegio de San Juan de Letran, Manila**](https://www.letran.edu.ph) (August to December 2019)
 * Study and Critical Thinking Skills
 * Purposive Communication
 * Great Books
 
-**Far Eastern University, Manila** (2016-2017)
+[**Far Eastern University, Manila**](https://www.feu.edu.ph) (2016-2017)
 * Introduction to Language Arts
-* Basic Communication Arts and Skills (Reading and Writing Skills)
-* Intermediate Communication Arts and Skills (Research Writing Skills)
+* Basic Communication Arts and Skills
+* Intermediate Communication Arts and Skills
+* Business Communication
 * Technical Writing
 * Technical Writing: Business and Accounting Applications
-* Business Communication
-* Effective Speech Communication
+* Advanced Expository Writing
 * Public Speaking
+* Effective Speech Communication
