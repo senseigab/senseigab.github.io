@@ -34,6 +34,6 @@ Gapas, W. G. A., & Lintao, R. B. (2017). Spoken communication difficulties and c
 
 “Publication and Research Ethics,” delivered to the FEU English Language Circle, Far Eastern University, Manila. March 14, 2017.
 
-“Action Research” (co-facilitated with Danny O. Balance), delivered to the faculty of Cecilio Apostol Elementary School at the Thomas Aquinas Research Complex, University of Santo Tomas, Manila. October 29, 2015. [Slides](https://senseigab.github.io/files/presentations/00_talks/2016_UST_Gapas.pdf)**
+“Action Research” (co-facilitated with Danny O. Balance), delivered to the faculty of Cecilio Apostol Elementary School at the Thomas Aquinas Research Complex, University of Santo Tomas, Manila. October 29, 2015. [Slides](https://senseigab.github.io/files/presentations/00_talks/2016_UST_Gapas.pdf)
 
 <a href="#">Back to Top</a>
