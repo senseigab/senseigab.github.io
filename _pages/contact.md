@@ -1,6 +1,6 @@
 ---
 title: Contact
-subtitle: Ways to Reach Me
+subtitle: Ways to reach me
 description: This page lists my other online profiles and other ways to reach me.
 featured_image: /images/demo/demo-portrait.jpg
 ---

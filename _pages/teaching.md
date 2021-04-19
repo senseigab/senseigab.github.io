@@ -1,11 +1,11 @@
 ---
 title: Teaching
-subtitle: Educating and (hopefully) inspiring others
+subtitle: Educating and inspiring learners
 description: This page describes my teaching philosophy and enumerates modules I currently and previously facilitated.
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/me/2018feuwe.jpg)
 
 ### Teaching Philosophy
 
@@ -16,6 +16,8 @@ You can find my teaching philosophy here (in PDF; coming soon).
 There are none, as I am not teaching at the moment. 
 
 ### Previously
+
+![](/images/me/2019letran.jpg)
 
 [**Colegio de San Juan de Letran, Manila**](https://www.letran.edu.ph) (August to December 2019)
 * Study and Critical Thinking Skills
