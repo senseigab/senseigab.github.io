@@ -20,20 +20,20 @@ Gapas, W. G. A. (2018). A discursive news values analysis of the Duterte adminis
 Gapas, W. G. A., & Lintao, R. B. (2017). Spoken communication difficulties and communication strategies of selected medical technology students. *The 2017 Philippine Association of Language Teachers Conference*, University of Santo Tomas, Manila. [slides](https://senseigab.github.io/files/presentations/01_PALT2017/Gapas_PALT2017.pdf)
 
 ### Widening Participation and Outreach
-I have given talks on action research, research ethics, discourse and gender, and World Englishes to a variety of students. I am also able to discuss other issues about journalism, (English) language teaching, social justice, and other matters that might be in my interests or expertise. If you want me to speak on a specific issue, let me know.
+**I have given talks on action research, research ethics, discourse and gender, and World Englishes to a variety of students. I am also able to discuss other issues about journalism, (English) language teaching, social justice, and other matters that might be in my interests or expertise. If you want me to speak on a specific issue, please contact me.**
 
-**“The Languages/Linguistics Degree: The (Worth of a) Scholarly Path,” delivered during the SHS Lakbay 3: Passions and Possibilities Career Convention. Lourdes School of Mandaluyong City [online]. April 7, 2021.** [Slides](https://senseigab.github.io/files/presentations/00_talks/2021_Gapas_LSMC.pdf). 
+“The Languages/Linguistics Degree: The (Worth of a) Scholarly Path,” delivered during the SHS Lakbay 3: Passions and Possibilities Career Convention. Lourdes School of Mandaluyong City [online]. April 7, 2021. [Slides](https://senseigab.github.io/files/presentations/00_talks/2021_Gapas_LSMC.pdf). 
 
-**"Applying Corpus-Assisted Multimodal Discourse Analysis: A Discursive News Values Study of an Armed Conflict," The Graduate School, University of Santo Tomas, Manila [online]. September 12, 2020.**
+"Applying Corpus-Assisted Multimodal Discourse Analysis: A Discursive News Values Study of an Armed Conflict," The Graduate School, University of Santo Tomas, Manila [online]. September 12, 2020.
 
-**“Appreciating Language Realities through Philippine English,” delivered at the Bulacan Agricultural State College, San Ildefonso, Bulacan. August 28, 2019.** [Slides](https://senseigab.github.io/files/presentations/00_talks/2019_BASC_Gapas.pdf).
+“Appreciating Language Realities through Philippine English,” delivered at the Bulacan Agricultural State College, San Ildefonso, Bulacan. August 28, 2019. [Slides](https://senseigab.github.io/files/presentations/00_talks/2019_BASC_Gapas.pdf).
 
-**“Introducing World Englishes: One Language, Multiple Identities, Multiple Realities,” delivered at the Senior High School, Far Eastern University, Manila. September 7, 2018**
+“Introducing World Englishes: One Language, Multiple Identities, Multiple Realities,” delivered at the Senior High School, Far Eastern University, Manila. September 7, 2018.
 
-**"“Language, Gender, and Discourses: Things People Should Know,” delivered during the 3rd Communication Conference: Exploring the Realm of Communication, De La Salle University, Manila. August 4, 2017.**
+"“Language, Gender, and Discourses: Things People Should Know,” delivered during the 3rd Communication Conference: Exploring the Realm of Communication, De La Salle University, Manila. August 4, 2017.
 
-**“Publication and Research Ethics,” delivered to the FEU English Language Circle, Far Eastern University, Manila. March 14, 2017.**
+“Publication and Research Ethics,” delivered to the FEU English Language Circle, Far Eastern University, Manila. March 14, 2017.
 
-**“Action Research” (co-facilitated with Danny O. Balance), delivered to the faculty of Cecilio Apostol Elementary School at the Thomas Aquinas Research Complex, University of Santo Tomas, Manila. October 29, 2015.** [Slides](https://senseigab.github.io/files/presentations/00_talks/2016_UST_Gapas.pdf)**
+“Action Research” (co-facilitated with Danny O. Balance), delivered to the faculty of Cecilio Apostol Elementary School at the Thomas Aquinas Research Complex, University of Santo Tomas, Manila. October 29, 2015. [Slides](https://senseigab.github.io/files/presentations/00_talks/2016_UST_Gapas.pdf)**
 
 <a href="#">Back to Top</a>

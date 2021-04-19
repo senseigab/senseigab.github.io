@@ -16,7 +16,7 @@ Hello! Welcome to my website. I'm Gab - a language educator and an applied lingu
 ### Professional Background
 <div class="gallery" data-columns="1">
 	<img src="/images/me/2015grad.jpg">
-	<img src="/images/me/2017palt.jpg">
+	<img src="/images/me/2019taipei.jpg">
 </div>
 
 I finished both my BA (cum laude; 2015) and MA (2020) degrees in English Language Studies at the [University of Santo Tomas, Manila](https://www.ust.edu.ph). My most recent master's research investigated how major Philippine broadsheets constructed the 2017 Marawi City crisis as a newsworthy happening in both written texts and news images, using corpus-assisted multimodal discourse analysis. This research was supervised by supervised by [Dr. Rachelle B. Lintao](https://www.ust.edu.ph/profile/lintao-rachelle-b/).
@@ -49,8 +49,7 @@ I'm also deeply interested in Korean and Japanese pop music, video games, and co
 	<img src="/images/random/soling1.jpg">
 	<img src="/images/random/soling2.jpg">
 	<img src="/images/random/soling3.jpg">
+	<img src="/images/random/soling4.jpg">
 </div>
-
-![](/images/random/soling4.jpg)
 
 <a href="#">Back to Top</a>
