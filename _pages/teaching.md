@@ -1,18 +1,19 @@
 ---
 title: Teaching
 subtitle: Educating and (hopefully) inspiring others
-description: Educating and (hopefully) inspiring others
+description: This page describes my teaching philosophy and enumerates modules I currently and previously facilitated.
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
 ![](/images/demo/demo-landscape.jpg)
+
 ### Teaching Philosophy
 
 You can find my teaching philosophy here (in PDF; coming soon).
 
 ### Currently
 
-None 
+There are none, as I am not teaching at the moment. 
 
 ### Previously
 

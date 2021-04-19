@@ -1,7 +1,7 @@
 ---
 title: Writing
-subtitle: Academic and Non-Academic Work
-description: Academic and Non-Academic Work
+subtitle: Academic and non-academic publications
+description: This page lists all of my academic and non-academic publications.
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
