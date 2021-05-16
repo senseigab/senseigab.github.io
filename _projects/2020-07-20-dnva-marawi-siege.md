@@ -11,6 +11,6 @@ featured_image: '/images/demo/demo-square.jpg'
 [The Newsworthiness of an Armed Conflict: A Corpus-Assisted Multimodal Discourse Analysis of Selected Newspaper Reports](https://senseigab.github.io/research/Gapas2020-ThesisMA.pdf) (*Benemeritus*)
 * Adviser: Dr. Rachelle B. Lintao
 * Committee: Drs. Marilu R. Madrunio, Alejandro S. Bernardo, & Eden R. Flores
-* [Click here for the Kaleidographic view of the corpus!](https://senseigab.github.io/research/thesisinfo/index.html)
+* [Click here for the Kaleidographic view of the corpus!](https://senseigab.github.io/projects/thesisinfo/index.html)
 
 ### Kaleidographic
