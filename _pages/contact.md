@@ -6,7 +6,7 @@ featured_image: /images/demo/demo-portrait.jpg
 ---
 
 ### Research Profiles
-You can find my published academic work listed in the following websites. You can find them in this website as well. In case a draft is posted and you would like to read the final published version, please email me at gapas.wga@gmail.com so we can communicate. 
+You can find my published academic work listed in the following websites and in this website as well. If a draft is posted and you would like to read the final published version, please email me at gapas.wga@gmail.com so we can communicate. 
 * [**Academia.Edu**](https://ust-ph.academia.edu/gapaswga)
 * [**Mendeley**: Wilfred Gabriel A. Gapas](https://mendeley.com/profiles/wilfred-gabriel-gapas)
 * [**ORCID**: 0000-0001-5156-3944](https://orcid.org/0000-0001-5156-3944)
@@ -19,7 +19,7 @@ Are you planning to invite me to speak or participate in an event? Would you lik
 - **Directly via social media:** Please check out the social media links on the sidebar. I am quite active on Twitter, Instagram, and LinkedIn. 
 - **Through the form below:** Please answer the form below completely. It can only take up to 50 responses per month, so try the other options if it does not work.
 
-**If you would like to reach me on matters relating to my responsibility as a NaNoWriMo Municipal Liaison for the Philippines, please reach us through the PinoyWriMos Facebook group, the PinoyWriMos Twitter, or through a direct message in the website (My username is Stardale).** 
+**If you would like to reach me on matters relating to my responsibility as a NaNoWriMo Municipal Liaison for the Philippines, please reach us through the PinoyWriMos Facebook group, the PinoyWriMos Twitter, or through a direct message in the website. (My username is Stardale).** 
 
 ### Contact Form
 **This form can only handle 50 submissions per month. Please contact me through other means if it does not work.**

@@ -34,3 +34,5 @@ There are none, as I am not teaching at the moment.
 * Advanced Expository Writing
 * Public Speaking
 * Effective Speech Communication
+
+<a href="#">Back to Top</a>
