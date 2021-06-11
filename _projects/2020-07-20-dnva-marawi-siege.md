@@ -2,11 +2,13 @@
 title: 'The Newsworthiness of an Armed Conflict - A Corpus-Assisted Multimodal Discourse Analysis of Selected Newspaper Reports'
 subtitle: 'MA Thesis, The Graduate School, University of Santo Tomas'
 date: 2018-06-30 00:00:00
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/projects/marawidnva.jpg'
 ---
 
 **Supervisor:** Dr. Rachelle B. Lintao
+
 **Committee:** Drs. Marilu R. Madrunio (chair), Alejandro S. Bernardo, and Eden R. Flores (external reader, De La Salle University)
+
 **Awarded *Benemeritus* (with distinction) after the defense**
 
 ### Abstract 
@@ -15,9 +17,10 @@ The reporting of both terrorism and conflicts is extensively investigated in pas
 **Keywords:** Marawi City, terrorism, news values, news discourse, corpus-assisted multimodal discourse analysis (CAMDA), press photography
 
 ### Other Information
-Download my thesis [here](https://senseigab.github.io/research/Gapas2020-ThesisMA.pdf).
+Download my thesis [here](https://senseigab.github.io/research/Gapas2020-ThesisMA.pdf). You can also download this work in my ResearchGate and Academia.edu profile. 
 
 If you would like to obtain a copy of my corpus, please contact me. I cannot post my data publicly due to potential copyright issues. 
 
 To view the Kaleidographic view of my corpus, please click [here](https://senseigab.github.io/projects/kaleidograph_mcc/index.html).
+
 **Note: This link to the Kaleidographic differs from the one provided in the paper.** 
