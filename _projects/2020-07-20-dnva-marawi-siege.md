@@ -17,7 +17,7 @@ The reporting of both terrorism and conflicts is extensively investigated in pas
 **Keywords:** Marawi City, terrorism, news values, news discourse, corpus-assisted multimodal discourse analysis (CAMDA), press photography
 
 ### Download the Paper
-Download my thesis [here](https://senseigab.github.io/research/Gapas2020-ThesisMA.pdf). You can also download this work in my ResearchGate and Academia.edu profile. Please cite this paper using the American Psychological Association style: 
+Download my thesis [here](https://senseigab.github.io/files/research/Gapas2020-ThesisMA.pdf). You can also download this work in my ResearchGate and Academia.edu profile. Please cite this paper using the American Psychological Association style: 
 
 Gapas, W. G. A. (2020). *The newsworthiness of an armed conflict: A corpus-assisted multimodal discourse analysis of selected newspaper reports* (Unpublished master's thesis). University of Santo Tomas, Manila.
 
