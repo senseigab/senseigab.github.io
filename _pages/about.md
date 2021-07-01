@@ -19,7 +19,7 @@ Hello! Welcome to my website. I'm Gab - a language educator and an applied lingu
 	<img src="/images/me/2019taipei.jpg">
 </div>
 
-I finished both my BA (cum laude; 2015) and MA (2020) degrees in English Language Studies at the [University of Santo Tomas, Manila](https://www.ust.edu.ph). My most recent master's research investigated how major Philippine broadsheets constructed the 2017 Marawi City crisis as a newsworthy happening in both written texts and news images, using corpus-assisted multimodal discourse analysis. This research was supervised by supervised by [Dr. Rachelle B. Lintao](https://www.ust.edu.ph/profile/lintao-rachelle-b/).
+I finished both my BA (cum laude; 2015) and MA (2020) degrees in English Language Studies at the [University of Santo Tomas, Manila](https://www.ust.edu.ph). My most recent master's research investigated how major Philippine broadsheets constructed the 2017 Marawi City crisis as a newsworthy happening in both written texts and news images, using corpus-assisted multimodal discourse analysis. This research was supervised by [Dr. Rachelle B. Lintao](https://www.ust.edu.ph/profile/lintao-rachelle-b/).
 
 I have taught various language courses in higher education and have delivered seminars on a range of issues to various audiences. Moreover, I am a lifetime member of the [Linguistic Society of the Philippines](https://lsphil.net) and am currently pursuing a knowledge dissemination project called [The Community Linguist](https://twitter.com/tclinguistics) (@tclinguistics) on Twitter and its other platforms. In addition, I have sat in numerous undergraduate thesis committees in the BA English Language Studies program at UST, where I usually evaluate sociolinguistics and (critical) discourse analysis papers. 
 
