@@ -18,7 +18,7 @@ Are you planning to invite me to speak or participate in an event? Would you lik
 - **Directly via social media:** I am quite active on Twitter, Instagram, and LinkedIn. Please check out the social media links on page menu on top. 
 - **Through the form below:** Please answer the form below completely. It can only take up to 50 responses per month, so try the other options if it does not work.
 
-**If you would like to reach me on matters relating to my responsibility as a NaNoWriMo Municipal Liaison for the Philippines, please reach us through the PinoyWriMos Facebook group, the PinoyWriMos Twitter, or through a direct message in the website. (My username is Stardale).** 
+**If you would like to reach me on matters relating to my responsibility as a NaNoWriMo Municipal Liaison for the Philippines, please reach us through the PinoyWriMos Facebook group, the PinoyWriMos Twitter, or through a direct message in the website. (My username is Stardale.)** 
 
 ### Contact Form
 **This form can only handle 50 submissions per month. Please contact me through other means if it does not work.**
