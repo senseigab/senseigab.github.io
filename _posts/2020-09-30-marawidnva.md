@@ -2,7 +2,9 @@
 title: 'The Newsworthiness of an Armed Conflict'
 subtitle: 'A Corpus-Assisted Multimodal Discourse Analysis of Selected Newspaper Reports'
 date: 2020-09-30 00:00:00
+featured_image: '/images/projects/marawidnva.jpg'
 ---
+<img src="/images/projects/marawidnva.jpg">
 
 This project was my thesis for my Master of Arts degree in English Language Studies at the University of Santo Tomas Graduate School. It received a *Benemeritus* distinction during the defense proceedings. 
 
