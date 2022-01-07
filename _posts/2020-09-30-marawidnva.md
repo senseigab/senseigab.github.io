@@ -2,7 +2,6 @@
 title: 'The Newsworthiness of an Armed Conflict'
 subtitle: 'A Corpus-Assisted Multimodal Discourse Analysis of Selected Newspaper Reports'
 date: 2020-09-30 00:00:00
-featured_image: '/images/projects/marawidnva.jpg'
 ---
 <img src="/images/projects/marawidnva.jpg">
 
