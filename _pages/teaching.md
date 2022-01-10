@@ -13,11 +13,10 @@ You can find my teaching philosophy here (in PDF; coming soon).
 
 ### Currently
 
-There are none, as I am not teaching at the moment. 
+[**Far Eastern University, Manila**](https://www.feu.edu.ph) (January 3-21, 2022)
+* Technical Writing for ESL Students (a special class on research writing for MA Nursing students by the Language Learning Center)
 
 ### Previously
-
-![](/images/me/2019letran.jpg)
 
 [**Colegio de San Juan de Letran, Manila**](https://www.letran.edu.ph) (August to December 2019)
 * Study and Critical Thinking Skills
