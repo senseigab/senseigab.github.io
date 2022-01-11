@@ -35,3 +35,23 @@ Are you planning to invite me to speak or participate in an event? Would you lik
   </fieldset>
   <input type="submit" value="Submit">
 </form>
+
+
+
+<form
+  action="https://formspree.io/f/mqknarvw"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
+
+This [Formspree](https://formspree.io/create/jekyllthemes) form at the moment can only handle 50 submissions per month.
