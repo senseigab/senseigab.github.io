@@ -23,6 +23,15 @@ Are you planning to invite me to speak or participate in an event? Would you lik
 ### Contact Form
 **This form can only handle 50 submissions per month. Please contact me through other means if it does not work.**
 
-{% include contact-form.html %}
-
-This [Formspree](https://formspree.io/create/jekyllthemes) form at the moment can only handle 50 submissions per month.
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mqknarvw" method="post">
+  <fieldset id="fs-frm-inputs">
+    <label for="full-name">Full Name</label>
+    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
+    <label for="email-address">Email Address</label>
+    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
+    <label for="message">Message</label>
+    <textarea rows="5" name="message" id="message" placeholder="Type in your message, question, or request here." required=""></textarea>
+    <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+  </fieldset>
+  <input type="submit" value="Submit">
+</form>
