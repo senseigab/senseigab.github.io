@@ -10,9 +10,9 @@ collections:
   posts:
     output: true
     permalink: /blog/:slug
-  projects:
+  services:
     output: true
-    permalink: /project/:slug
+    permalink: /services/:slug
 
 defaults:
   -
@@ -35,7 +35,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "projects"
+      type: "services"
     values:
       layout: "project"
 

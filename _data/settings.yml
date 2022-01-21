@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Wilfred Gabriel A. Gapas
-  site_tagline: Teacher & Applied Linguistics Researcher
+  site_tagline: Educator and Applied Linguistics Researcher
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -14,16 +14,14 @@ menu_settings:
       url: '/'
     - title: 'About'
       url: '/about'
-    - title: 'Talks'
-      url: '/talks'
     - title: 'Teaching'
-      url: '/teaching' 
-    - title: 'Writing'
-      url: '/writing'
-    - title: 'Projects'
-      url: '/projects/'
+      url: '/teaching'
     - title: 'Services'
-      url: '/services'
+      url: '/services/' 
+    - title: 'Presentations'
+      url: '/talks'
+    - title: 'Publications'
+      url: '/writing'
     - title: 'Contact'
       url: '/contact'
 
