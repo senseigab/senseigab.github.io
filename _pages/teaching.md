@@ -5,6 +5,7 @@ featured_image: /images/demo/demo-portrait.jpg
 ---
 
 ![](/images/me/2018feuwe.jpg)
+
 Page Menu: <a href="#teachphilo">Teaching Philosophy</a>  <a href="#present">Current Courses Taught</a> 
  <a href="#past">Past Courses Taught</a> 
 
