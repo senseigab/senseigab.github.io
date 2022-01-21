@@ -1,22 +1,22 @@
 ---
 title: Teaching
-subtitle: Educating and inspiring learners
 description: This page describes my teaching philosophy and enumerates modules I currently and previously facilitated.
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
 ![](/images/me/2018feuwe.jpg)
+Page Menu: <a href="#teachphilo">Teaching Philosophy</a> | <a href="#present">Current Courses Taught</a> 
+| <a href="#past">Past Courses Taught</a> 
 
-### Teaching Philosophy
+### <a href="#teachphilo>Teaching Philosophy</a>
+Coming soon.
 
-You can find my teaching philosophy here (in PDF; coming soon).
+### <a href="#present">Current Courses Taught</a>
+None.
 
-### Currently
-
+### <a href="#past">Past Courses Taught</a> 
 [**Far Eastern University, Manila**](https://www.feu.edu.ph) (January 3-21, 2022)
 * Technical Writing for ESL Students (a special class on research writing for MA Nursing students by the Language Learning Center)
-
-### Previously
 
 [**Colegio de San Juan de Letran, Manila**](https://www.letran.edu.ph) (August to December 2019)
 * Study and Critical Thinking Skills
