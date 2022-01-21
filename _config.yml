@@ -37,7 +37,7 @@ defaults:
       path: ""
       type: "services"
     values:
-      layout: "project"
+      layout: "service"
 
 markdown: kramdown
 
