@@ -7,17 +7,15 @@ featured_image: /images/site/square-5.png
 
 ![](/images/me/2018feuwe.jpg)
 
-Page Menu: <a href="#teachphilo">Teaching Philosophy</a>, <a href="#present">Current Courses Taught</a>, <a href="#past">Past Courses Taught</a> 
-
-### <a href="#teachphilo">Teaching Philosophy</a>
+### Teaching Philosophy
 Coming soon.
 
-### <a href="#present">Current Courses Taught</a>
+### Current Courses Taught
 None.
 
-### <a href="#past">Past Courses Taught</a> 
+### Past Courses Taught
 [**Far Eastern University, Manila**](https://www.feu.edu.ph) (January 3-21, 2022)
-* Technical Writing for ESL Students (a special class on research writing for MA Nursing students by the Language Learning Center)
+* Technical Writing for ESL Students (a special class on research writing for masters students by the Language Learning Center)
 
 [**Colegio de San Juan de Letran, Manila**](https://www.letran.edu.ph) (August to December 2019)
 * Study and Critical Thinking Skills
@@ -35,4 +33,4 @@ None.
 * Public Speaking
 * Effective Speech Communication
 
-<a href="#">Back to Top</a>
+<a href="#" class="button button--large">Back to Top</a>
