@@ -1,12 +1,12 @@
 ---
-date: 2020-09-30 00:00:00
+date: 2020-09-30 14:32:14
 title: 'The Newsworthiness of an Armed Conflict: A Corpus-Assisted Multimodal Discourse Analysis of Newspaper Reports'
 subtitle: 'Information and Download Page for my 2020 Thesis'
 featured_image: 'images/projects/marawidnva.png'
 excerpt: This project was my thesis for my Master of Arts degree in English Language Studies at the University of Santo Tomas Graduate School. It received a *Benemeritus* distinction during the defense. In addition, it was awarded *second place* in the 1st Loretta Makasiar Sicat Prize for the Social Sciences by the Philippine Social Science Council.
 ---
 
-*This project was my thesis for my Master of Arts degree in English Language Studies at the University of Santo Tomas Graduate School. It received a *Benemeritus* distinction during the defense. In addition, it was awarded *second place* in the 1st Loretta Makasiar Sicat Prize for the Social Sciences by the Philippine Social Science Council.*
+This project was my thesis for my Master of Arts degree in English Language Studies at the University of Santo Tomas Graduate School. It received a *Benemeritus* distinction during the defense. In addition, it was awarded *second place* in the 1st Loretta Makasiar Sicat Prize for the Social Sciences by the Philippine Social Science Council.
 
 **Supervisor:** Dr. Rachelle B. Lintao
 
@@ -17,15 +17,17 @@ The reporting of both terrorism and conflicts is extensively investigated in pas
 
 **Keywords:** Marawi City, terrorism, news values, news discourse, corpus-assisted multimodal discourse analysis (CAMDA), press photography
 
-### Download the Paper
-Download my thesis [here](https://senseigab.github.io/files/research/Gapas2020-ThesisMA.pdf). You can also download this work in my ResearchGate and Academia.edu profile. Please cite this paper using the American Psychological Association style: 
+### Links
+**[Extended Abstract (PDF)](https://senseigab.github.io/files/research/thesis2020/Gapas2020_ExtendedAbstract.pdf)**
+This extended abstract was submitted to the Philippine Social Science Council for the 1st Loretta Makasiar Sicat Prize for the Social Sciences. It contains more information about the paper itself. Feel free to read it!
+
+**[Thesis (PDF)](https://senseigab.github.io/files/research/thesis2020/Gapas2020.pdf)**
+This is the digital copy of my thesis. You can download this work in my ResearchGate and Academia.edu profiles as well. If you will cite this paper using the American Psychological Association (7th edition) style, please use this: 
 
 Gapas, W. G. A. (2020). *The newsworthiness of an armed conflict: A corpus-assisted multimodal discourse analysis of selected newspaper reports* (Unpublished master's thesis). University of Santo Tomas, Manila.
 
+**[Kaleidographic View of the Corpus](https://senseigab.github.io/files/research/thesis2020/index.html)**
+Click the link above to view the multimodal study's Kaleidographic visualization. **Please note that the link to this visual differs from the one provided in the paper.**
+
 ### Data Information
 If you would like to obtain a copy of my corpus, please contact me by email. I cannot post my data publicly due to potential copyright issues. 
-
-### Kaleidographic View of the Corpus
-To view the Kaleidographic view of my corpus, please click [here](https://senseigab.github.io/projects/kaleidograph_mcc/index.html).
-
-**Note: This link to the Kaleidographic differs from the one provided in the paper.** 
