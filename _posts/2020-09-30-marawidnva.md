@@ -1,11 +1,12 @@
 ---
-title: 'The Newsworthiness of an Armed Conflict'
-subtitle: 'A Corpus-Assisted Multimodal Discourse Analysis of Selected Newspaper Reports'
 date: 2020-09-30 00:00:00
+title: 'The Newsworthiness of an Armed Conflict: A Corpus-Assisted Multimodal Discourse Analysis of Newspaper Reports'
+subtitle: 'Information and Download Page for my 2020 Thesis'
+featured_image: 'images/projects/marawidnva.png'
+excerpt: This project was my thesis for my Master of Arts degree in English Language Studies at the University of Santo Tomas Graduate School. It received a *Benemeritus* distinction during the defense. In addition, it was awarded *second place* in the 1st Loretta Makasiar Sicat Prize for the Social Sciences by the Philippine Social Science Council.
 ---
-<img src="/images/projects/marawidnva.png">
 
-This project was my thesis for my Master of Arts degree in English Language Studies at the University of Santo Tomas Graduate School. It received a *Benemeritus* distinction during the defense proceedings. 
+*This project was my thesis for my Master of Arts degree in English Language Studies at the University of Santo Tomas Graduate School. It received a *Benemeritus* distinction during the defense. In addition, it was awarded *second place* in the 1st Loretta Makasiar Sicat Prize for the Social Sciences by the Philippine Social Science Council.*
 
 **Supervisor:** Dr. Rachelle B. Lintao
 
