@@ -18,16 +18,13 @@ The reporting of both terrorism and conflicts is extensively investigated in pas
 **Keywords:** Marawi City, terrorism, news values, news discourse, corpus-assisted multimodal discourse analysis (CAMDA), press photography
 
 ### Links
-**[Extended Abstract (PDF)](https://senseigab.github.io/files/research/thesis2020/Gapas2020_ExtendedAbstract.pdf)**
-This extended abstract was submitted to the Philippine Social Science Council for the 1st Loretta Makasiar Sicat Prize for the Social Sciences. It contains more information about the paper itself. Feel free to read it!
+**[Extended Abstract (PDF)](https://senseigab.github.io/files/research/thesis2020/Gapas2020_ExtendedAbstract.pdf)**: This extended abstract was submitted to the Philippine Social Science Council for the 1st Loretta Makasiar Sicat Prize for the Social Sciences. It contains more information about the paper itself. Feel free to read it!
 
-**[Thesis (PDF)](https://senseigab.github.io/files/research/thesis2020/Gapas2020.pdf)**
-This is the digital copy of my thesis. You can download this work in my ResearchGate and Academia.edu profiles as well. If you will cite this paper using the American Psychological Association (7th edition) style, please use this: 
+**[Thesis (PDF)](https://senseigab.github.io/files/research/thesis2020/Gapas2020.pdf)**: This is the digital copy of my thesis. You can download this work in my ResearchGate and Academia.edu profiles as well. If you will cite this paper using the American Psychological Association (7th edition) style, please use this: 
 
 Gapas, W. G. A. (2020). *The newsworthiness of an armed conflict: A corpus-assisted multimodal discourse analysis of selected newspaper reports* (Unpublished master's thesis). University of Santo Tomas, Manila.
 
-**[Kaleidographic View of the Corpus](https://senseigab.github.io/files/research/thesis2020/index.html)**
-Click the link above to view the multimodal study's Kaleidographic visualization. **Please note that the link to this visual differs from the one provided in the paper.**
+**[Kaleidographic View of the Corpus](https://senseigab.github.io/files/research/thesis2020/index.html)**: Click this link to view the multimodal study's Kaleidographic visualization. *Please note that the link to this visual differs from the one provided in the paper.*
 
 ### Data Information
 If you would like to obtain a copy of my corpus, please contact me by email. I cannot post my data publicly due to potential copyright issues. 
