@@ -14,4 +14,4 @@ Gapas, W. G. A. (2016). The discourse organization of Philippine university news
 
 **Thesis**
 
-Gapas, W. G. A. (2020). *[The newsworthiness of an armed conflict: A corpus-assisted multimodal discourse analysis of selected newspaper reports](https://senseigab.github.io/blog/marawidnva) (Unpublished master's thesis). University of Santo Tomas, Manila. 
+Gapas, W. G. A. (2020). [*The newsworthiness of an armed conflict: A corpus-assisted multimodal discourse analysis of selected newspaper reports*](https://senseigab.github.io/blog/marawidnva) (Unpublished master's thesis). University of Santo Tomas, Manila. 
