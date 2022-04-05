@@ -1,8 +1,8 @@
 ---
 title: Contact
-subtitle: Ways to reach me
+subtitle: Ways to Reach Me
 description: This page lists my other online profiles and other ways to reach me.
-featured_image: /images/demo/demo-portrait.jpg
+featured_image: /images/site/square-6.png
 ---
 
 ### Research Profiles
