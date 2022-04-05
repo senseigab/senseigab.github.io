@@ -21,7 +21,7 @@ menu_settings:
     - title: 'Presentations'
       url: '/talks'
     - title: 'Publications'
-      url: '/writing'
+      url: '/publications'
     - title: 'Contact'
       url: '/contact'
 
