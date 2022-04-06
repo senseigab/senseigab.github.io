@@ -1,4 +1,4 @@
-site: Wilfred Gabriel A. Gapas
+site: Journal Jekyll Theme
 
 url: 
 baseurl: 
@@ -10,9 +10,9 @@ collections:
   posts:
     output: true
     permalink: /blog/:slug
-  services:
+  projects:
     output: true
-    permalink: /services/:slug
+    permalink: /project/:slug
 
 defaults:
   -
@@ -35,9 +35,9 @@ defaults:
   -
     scope:
       path: ""
-      type: "services"
+      type: "projects"
     values:
-      layout: "service"
+      layout: "project"
 
 markdown: kramdown
 

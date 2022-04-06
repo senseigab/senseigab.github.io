@@ -16,7 +16,7 @@ menu_settings:
       url: '/about'
     - title: 'Teaching'
       url: '/teaching'
-    - title: 'Projects'
+    - title: 'Projects & Services'
       url: '/projects/' 
     - title: 'Presentations'
       url: '/presentations'
