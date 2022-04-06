@@ -19,7 +19,7 @@ menu_settings:
     - title: 'Services'
       url: '/services/' 
     - title: 'Presentations'
-      url: '/talks'
+      url: '/presentations'
     - title: 'Publications'
       url: '/publications'
     - title: 'Contact'

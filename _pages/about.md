@@ -2,7 +2,7 @@
 title: About
 subtitle: A brief background about me
 description: This page provides a brief information about Gab.
-featured_image: /images/demo/demo-portrait.jpg
+featured_image: /images/site/square-4.png
 ---
 
 <div class="gallery" data-columns="1">
@@ -45,4 +45,4 @@ Perhaps I could now be less formal here? I'm also deeply interested in Korean an
 	<img src="/images/random/soling4.jpg">
 </div>
 
-<a href="#">Back to Top</a>
+<a href="#" class="button button--large">Back to Top</a>

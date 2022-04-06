@@ -5,7 +5,7 @@ description: This page lists all of my academic and non-academic publications.
 featured_image: /images/site/square-3.png
 ---
 
-### Research Publications
+### Research Outputs
 
 **Journal Articles**
 
@@ -15,3 +15,5 @@ Gapas, W. G. A. (2016). The discourse organization of Philippine university news
 **Theses**
 
 Gapas, W. G. A. (2020). [*The newsworthiness of an armed conflict: A corpus-assisted multimodal discourse analysis of selected newspaper reports*](https://senseigab.github.io/blog/marawidnva) (Unpublished master's thesis). University of Santo Tomas, Manila. 
+
+<a href="#" class="button button--large">Back to Top</a>

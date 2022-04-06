@@ -1,6 +1,6 @@
 ---
 title: Contact
-subtitle: Ways to Reach Me
+subtitle: Here is additional information on how to reach me online.
 description: This page lists my other online profiles and other ways to reach me.
 featured_image: /images/site/square-6.png
 ---
@@ -24,3 +24,5 @@ Are you planning to invite me to speak or participate in an event? Would you lik
 **This form can only handle 50 submissions per month. Please contact me through other means if it does not work.**
 
 {% include contact-form.html %}
+
+<a href="#" class="button button--large">Back to Top</a>

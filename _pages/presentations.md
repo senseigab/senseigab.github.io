@@ -1,13 +1,11 @@
 ---
-title: Talks
-subtitle: Previous presentations and speaking engagements
+title: Presentations
+subtitle: This page lists my public presentations presentations, whether invited or otherwise. My handouts and slide presentations can also be found here. If you'd like me to speak in your workshop, please check the Services page for more information. For easy navigation, please use Ctrl+F.
 description: This page lists all my past presentations and speaking engagements.
-featured_image: /images/demo/demo-portrait.jpg
+featured_image: /images/site/square-7.png
 ---
 
 ![](/images/me/2019esea.jpg)
-
-This page lists all of my speaking engagements and presentations, whether invited or otherwise. My handouts and slide presentations can also be found here. If you'd like me to speak in your workshop, please check out the Services page for more information. *Please inform me about it at least a month before the event.* For easy navigation, please use Ctrl+F.
 
 ### Conferences and Symposia
 
@@ -21,6 +19,8 @@ Gapas, W. G. A., & Lintao, R. B. (2017). Spoken communication difficulties and c
 
 ### Widening Participation and Outreach
 **I have given talks on action research, research ethics, discourse and gender, and World Englishes to a variety of students. I am also able to discuss other issues about journalism, linguistics, (English) language education, social justice, and other matters that might be in my interests or expertise. If you want me to speak on a specific issue, please contact me.**
+
+"Becoming a Pinoy Researcher: Is It Even Worth it?" delivered during the Ready, Set, G! A Career and Life Webinar. The UST English Language Studies Society [online]. November 18, 2021. [Slides](https://senseigab.github.io/files/presentations/00_talks/2021_UST_Gapas.pdf)
 
 “The Languages/Linguistics Degree: The (Worth of a) Scholarly Path,” delivered during the SHS Lakbay 3: Passions and Possibilities Career Convention. Lourdes School of Mandaluyong City [online]. April 7, 2021. [Slides](https://senseigab.github.io/files/presentations/00_talks/2021_LSMC_Gapas.pdf).
 
@@ -36,4 +36,4 @@ Gapas, W. G. A., & Lintao, R. B. (2017). Spoken communication difficulties and c
 
 “Action Research” (co-facilitated with Danny O. Balance), delivered to the faculty of Cecilio Apostol Elementary School at the Thomas Aquinas Research Complex, University of Santo Tomas, Manila. October 29, 2015. [Slides](https://senseigab.github.io/files/presentations/00_talks/2016_UST_Gapas.pdf)
 
-<a href="#">Back to Top</a>
+<a href="#" class="button button--large">Back to Top</a>
