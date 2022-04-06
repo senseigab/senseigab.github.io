@@ -6,7 +6,7 @@ featured_image: /images/site/square-6.png
 date: 2022-04-01 00:00:00
 ---
 
-![](/images/gurongpolitikal/gurongpolitikal.png)
+<img src="https://senseigab.github.io/images/gurongpolitikal/gurongpolitikal.png"> <img>
 
 Page under construction.
 
