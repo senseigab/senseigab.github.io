@@ -1,6 +1,6 @@
 ---
-title: Gurong Politikal
-subtitle: Find information about my Youtube channel for sociopolitical commentaries, "Gurong Politikal." 
+title: 'Gurong Politikal'
+subtitle: 'Find information about my Youtube channel for sociopolitical commentaries, "Gurong Politikal."'
 description: This page provides information about Gurong Politikal.
 featured_image: /images/site/square-6.png
 ---

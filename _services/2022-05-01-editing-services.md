@@ -1,6 +1,6 @@
 ---
-title: Editing Services
-subtitle: Placeholder
+title: 'Editing Services'
+subtitle: 'Placeholder'
 description: Placeholder
 featured_image: /images/site/square-6.png
 ---

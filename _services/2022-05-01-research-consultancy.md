@@ -1,6 +1,6 @@
 ---
-title: Research Consultancy
-subtitle: Need help with your research? I might be able to help.
+title: 'Research Consultancy
+subtitle: Need help with your research? I might be able to help.'
 description: This page provides information about my research consultancy services.
 featured_image: /images/site/square-6.png
 ---

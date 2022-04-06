@@ -1,6 +1,6 @@
 ---
-title: Seminars and Workshops
-subtitle: Placeholder
+title: 'Seminars and Workshops'
+subtitle: 'Placeholder'
 description: Placeholder
 featured_image: /images/site/square-6.png
 ---
