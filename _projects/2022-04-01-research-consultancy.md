@@ -3,6 +3,7 @@ title: 'Research Consultancy'
 subtitle: 'Need help with your research? I might be able to help.'
 description: This page provides information about my research consultancy services.
 featured_image: /images/site/square-6.png
+date: 2022-04-01 00:00:00
 ---
 
 I am available to provide research assistance to undergraduate and graduate students in the humanities and the social sciences in general, with particular specialisms in applied linguistics and education. While I tend to employ qualitative paradigms, I advocate mixed-methods approaches while abandoning the qualitative-quantitative binary, because all kinds of research have varying degrees of each end of the research spectrum. 
