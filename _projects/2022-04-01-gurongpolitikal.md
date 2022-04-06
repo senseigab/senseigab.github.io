@@ -6,7 +6,7 @@ featured_image: /images/site/square-6.png
 date: 2022-04-01 00:00:00
 ---
 
-![](/images/gurongpolitikal/Gurong_Politikal.png)
+![](/images/gurongpolitikal/gurongpolitikal.png)
 
 Page under construction.
 
