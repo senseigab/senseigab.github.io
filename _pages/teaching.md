@@ -10,19 +10,19 @@ featured_image: /images/site/square-2.png
 ### Teaching Philosophy
 Coming soon.
 
-### Current Courses Taught
+### Current Courses
 None.
 
-### Past Courses Taught
-[**Far Eastern University, Manila**](https://www.feu.edu.ph) (January 3-21, 2022)
-* Technical Writing for ESL Students (a special class on research writing for masters students by the Language Learning Center)
+### Past Courses
+[**Language Learning Center, Far Eastern University, Manila**](https://www.feu.edu.ph) (January 3-21, 2022)
+* Technical Writing for ESL Students (a special research writing class for masters students)
 
-[**Colegio de San Juan de Letran, Manila**](https://www.letran.edu.ph) (August to December 2019)
+[**College of Education, Colegio de San Juan de Letran, Manila**](https://www.letran.edu.ph) (August to December 2019)
 * Study and Critical Thinking Skills
 * Purposive Communication
 * Great Books
 
-[**Far Eastern University, Manila**](https://www.feu.edu.ph) (2016-2017)
+[**Institute of Arts and Sciences, Far Eastern University, Manila**](https://www.feu.edu.ph) (2016-2017)
 * Introduction to Language Arts
 * Basic Communication Arts and Skills
 * Intermediate Communication Arts and Skills
