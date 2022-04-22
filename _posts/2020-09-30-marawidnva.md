@@ -8,7 +8,7 @@ excerpt: This project was my thesis for my Master of Arts degree in English Lang
 
 This project was my thesis for my Master of Arts degree in English Language Studies at the University of Santo Tomas Graduate School. It received a *Benemeritus* distinction during the defense. In addition, it was awarded *second place* in the 1st [Loretta Makasiar Sicat Prize for the Social Sciences](https://pssc.org.ph/lmsprize/) by the Philippine Social Science Council.
 
-**Supervisor:** Dr. Rachelle B. Lintao
+**Supervisor:** [Dr. Rachelle B. Lintao](https://www.ust.edu.ph/profile/lintao-rachelle-b/)
 
 **Committee:** Drs. Marilu R. Madrunio (chair), Alejandro S. Bernardo, and Eden R. Flores (external reader, De La Salle University)
 

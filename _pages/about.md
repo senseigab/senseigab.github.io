@@ -1,6 +1,6 @@
 ---
 title: About
-subtitle: A brief background about me
+subtitle: Let me tell you about myself. 
 description: This page provides a brief information about Gab.
 featured_image: /images/site/square-4.png
 ---
@@ -12,19 +12,13 @@ featured_image: /images/site/square-4.png
 	<img src="/images/me/2020nanowin.jpg">
 </div>
 
-**Wilfred Gabriel A. Gapas (Gab) (preferred pronouns: he or they)** is a language educator and an applied linguistics researcher from the Philippines. He finished his Bachelor of Arts (cum laude, 2015) and Master of Arts (2020) degrees in English Language Studies at the [University of Santo Tomas, Manila](https://www.ust.edu.ph). His most recent master's research investigated how major Philippine broadsheets constructed the 2017 Marawi City crisis as a newsworthy happening in both written news texts and images, using corpus-assisted multimodal discourse analysis. This research was supervised by [Dr. Rachelle B. Lintao](https://www.ust.edu.ph/profile/lintao-rachelle-b/).
+### Hello!
 
-Gab has taught various language and communication courses in higher education and delivered seminars on different linguistics and research topics to various audiences. In addition, he has sat in numerous undergraduate thesis committees in the BA English Language Studies program at UST, where he usually reads papers in discourse studies and sociolinguistics. Further, he is a lifetime member of the [Linguistic Society of the Philippines](https://lsphil.net) and is managing a knowledge dissemination project called [The Community Linguist](https://twitter.com/tclinguistics) (@tclinguistics) on Twitter and its other platforms.
+My name's Wilfred Gabriel A. Gapas - Gab for short - and my preferred English pronouns are he/him/his or they/them/their. I am a language educator, applied linguistics researcher, and a freelance editor. My master's and bachelor's degrees were both earned at the [University of Santo Tomas, Manila](https://www.ust.edu.ph). 
 
-Beyond academia, Gab is currently one of the [National Novel Writing Month (NaNoWriMo)](https://nanowrimo.org) Municipal Liaisons for the Philippines. In addition, he has participated as a judge in the Filipino Reader's Choice Awards in 2013 for the Essay Anthology category and in 2014 for the Inspirational or Religious category. As an undergraduate, he served in different official positions within the [UST English Language Studies Society](https://www.facebook.com/USTELSSOC) as Deputy Head of the Outreach Committee (2013-2014), as Deputy Speaker and Member of the Board of Representatives (2013-2014), and as Vice President for External Affairs (2014-2015). 
+As an educator, my experience has been in teaching English and communication courses in higher education institutions. My teaching stints have been complemented by seminars delivered to audiences such as public school teachers and high school students. Moreover, I have examined undergraduate theses on discourse analysis and sociolinguistics. 
 
-His curriculum vitae is available here: [academic](https://senseigab.github.io/files/gapas_ac2021.pdf) / public. 
-
-### Research Interests
-
-![](/images/random/bg.jpg)
-
-I am broadly interested in various topics under sociolinguistics, discourse studies, language (teacher) education, and forensic linguistics. It is also my preference to look at these issues from a critical lens to address social justice issues. Some of my specific areas of interest include:
+Meanwhile, my research interests are broadly situated under sociolinguistics, discourse studies, language (teacher) education, and forensic linguistics. Some of my specific areas of interest include:
 * language aggression;
 * the language of healthcare and healthcare institutions;
 * the discourses of public policy surrounding disasters and education;
@@ -34,9 +28,11 @@ I am broadly interested in various topics under sociolinguistics, discourse stud
 
 I am also interested in higher education research, Asian popular cultures, science communication, decoloniality, and social justice research methodologies.
 
-### Personal 
+Beyond academia, I'm currently one of the [National Novel Writing Month (NaNoWriMo)](https://nanowrimo.org) Municipal Liaisons for the Philippines. In addition, I have taken part as a judge in the Filipino Reader's Choice Awards for the Essay Anthology category (2013) and the Inspirational or Religious category (2014). 
 
-Perhaps I could now be less formal here? I'm also deeply interested in Korean and Japanese pop music, video games, and comics. More importantly, I truly adore cats and dogs. Here's our dog, Soling, from my hometown in Bohol! :D
+As an undergraduate, I served in different official positions within the [UST English Language Studies Society](https://www.facebook.com/USTELSSOC) as Deputy Head of the Outreach Committee (2013-2014), as Deputy Speaker and Member of the Board of Representatives (2013-2014), and as Vice President for External Affairs (2014-2015).
+
+I'm also deeply interested in Korean and Japanese pop music, video games, and comics. More importantly, I truly adore cats and dogs. Here's our dog, Soling, from my hometown in Bohol! :D
 
 <div class="gallery" data-columns="1">
 	<img src="/images/random/soling1.jpg">
@@ -44,5 +40,14 @@ Perhaps I could now be less formal here? I'm also deeply interested in Korean an
 	<img src="/images/random/soling3.jpg">
 	<img src="/images/random/soling4.jpg">
 </div>
+
+### Downloads
+
+You can download the following files here:
+[Curriculum Vitae (Academic)](https://senseigab.github.io/files/gapas_ac2021.pdf) 
+
+Resume (Public) 
+
+Bionote
 
 <a href="#" class="button button--large">Back to Top</a>
