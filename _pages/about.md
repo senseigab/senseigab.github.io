@@ -14,7 +14,7 @@ featured_image: /images/site/square-4.png
 
 ### Hello!
 
-My name's Wilfred Gabriel A. Gapas - Gab for short - and my preferred English pronouns are he/him/his or they/them/their. I am a language educator, applied linguistics researcher, and a freelance editor. My master's and bachelor's degrees were both earned at the [University of Santo Tomas, Manila](https://www.ust.edu.ph). 
+My name's Wilfred Gabriel A. Gapas - Gab for short - and my preferred English pronouns are he/him/his or they/them/their. I am a language educator, applied linguistics researcher, and a freelance editor. My master's and bachelor's degrees were both earned at the [University of Santo Tomas, Manila](https://www.ust.edu.ph). I'm also a member of the Linguistic Society of the Philippines and the Cognitive Science Society.
 
 As an educator, my experience has been in teaching English and communication courses in higher education institutions. My teaching stints have been complemented by seminars delivered to audiences such as public school teachers and high school students. Moreover, I have examined undergraduate theses on discourse analysis and sociolinguistics. 
 
