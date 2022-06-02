@@ -9,9 +9,8 @@ featured_image: /images/site/square-6.png
 
 **Wilfred Gabriel A. Gapas**
 
-**Email:** [gapas.wga@gmail.com](mailto:gapas.wga@gmail.com) or [wgabrielgapas@gmail.com](mailto:wgabrielgapas@gmail.com)
-
-**Social Media:** [Instagram](https://www.instagram.com/senseigab), [Twitter](https://www.twitter.com/senseigab), and [LinkedIn](https://www.linkedin.com/in/gapaswga/)
+<p>**Email:** [gapas.wga@gmail.com](mailto:gapas.wga@gmail.com) or [wgabrielgapas@gmail.com](mailto:wgabrielgapas@gmail.com)</p>
+<p>**Social Media:** [Instagram](https://www.instagram.com/senseigab), [Twitter](https://www.twitter.com/senseigab), and [LinkedIn](https://www.linkedin.com/in/gapaswga/)</p>
 
 Or complete this form below:
 {% include contact-form.html %}
