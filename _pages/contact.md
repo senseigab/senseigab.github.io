@@ -5,7 +5,7 @@ description: This page lists my other online profiles and other ways to reach me
 featured_image: /images/site/square-6.png
 ---
 
-![](/images/me/bg.jpg)
+![](/images/random/bg.jpg)
 
 **Wilfred Gabriel A. Gapas**
 **Email:** [gapas.wga@gmail.com](mailto:gapas.wga@gmail.com) or [wgabrielgapas@gmail.com](mailto:wgabrielgapas@gmail.com)
