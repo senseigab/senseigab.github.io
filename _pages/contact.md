@@ -14,7 +14,6 @@ featured_image: /images/site/square-6.png
 
 Or complete this form below:
 {% include contact-form.html %}
-
 **This form can only handle 50 submissions per month. Email me if it does not work.**
 
 <a href="/" class="button button--large">Back To Home</a>
