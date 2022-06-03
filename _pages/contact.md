@@ -5,7 +5,7 @@ description: This page lists my other online profiles and other ways to reach me
 featured_image: /images/site/square-6.png
 ---
 
-![](/images/random/cat1.jpg)
+![](/images/site/contact-1.png)
 
 **Wilfred Gabriel A. Gapas**
 
