@@ -1,11 +1,11 @@
 ---
 title: Contact
-subtitle: Are you planning to invite me to speak or participate in an event? Would you like to collaborate with me? Do you have questions regarding my presentations and/or research? Do you want to avail my professional services? Let's keep in touch.
+subtitle: Do you to invite me to speak or participate in an event? Would you like to collaborate with me? Do you have questions regarding my presentations and/or research? Do you want to avail my professional services? Let's keep in touch.
 description: This page lists my other online profiles and other ways to reach me.
 featured_image: /images/site/square-6.png
 ---
 
-![](/images/random/bg.jpg)
+![](/images/random/cat1.jpg)
 
 **Wilfred Gabriel A. Gapas**
 
