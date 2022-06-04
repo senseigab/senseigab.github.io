@@ -2,7 +2,7 @@
 title: Presentations
 subtitle: This page lists my public presentations presentations, whether invited or otherwise. My handouts and slide presentations can also be found here. If you'd like me to speak in your workshop, please check the Services page for more information. For easy navigation, please use Ctrl+F.
 description: This page lists all my past presentations and speaking engagements.
-featured_image: /images/site/square-7.png
+featured_image: /images/site/square-4.png
 ---
 
 ![](/images/site/pagebanner/presentations.png)

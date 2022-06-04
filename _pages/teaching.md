@@ -2,7 +2,7 @@
 title: Teaching
 subtitle: My Teaching Philosophy and Profile
 description: This page describes my teaching philosophy and enumerates modules I currently and previously facilitated.
-featured_image: /images/site/square-2.png
+featured_image: /images/site/square-5.png
 ---
 
 ![](/images/site/pagebanner/teaching.png)

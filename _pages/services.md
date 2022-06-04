@@ -2,7 +2,7 @@
 title: Services
 subtitle: Your message was sent successfully.
 description: Thank you
-featured_image: /images/site/square-2.png
+featured_image: /images/site/square-6.png
 ---
 
 ![](/images/site/pagebanner/services.png)
