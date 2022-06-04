@@ -2,7 +2,7 @@
 date: 2020-09-30 14:32:14
 title: 'The Newsworthiness of an Armed Conflict: A Corpus-Assisted Multimodal Discourse Analysis of Newspaper Reports'
 subtitle: 'Information and Download Page for my 2020 Thesis'
-featured_image: 'images/projects/marawidnva.png'
+featured_image: 'images/research/marawidnva.png'
 excerpt: This project was my thesis for my Master of Arts degree in English Language Studies at the University of Santo Tomas Graduate School. It received a Benemeritus distinction during the defense. In addition, it was awarded second place in the 1st Loretta Makasiar Sicat Prize for the Social Sciences by the Philippine Social Science Council.
 ---
 
