@@ -12,7 +12,7 @@ menu_settings:
   menu_items:
     - title: 'Home'
       url: '/'
-    - title: 'About Me'
+    - title: 'About'
       url: '/about'
     - title: 'Projects' 
       url: '/projects/' 
@@ -20,7 +20,7 @@ menu_settings:
       url: '/services'
     - title: 'Teaching'
       url: '/teaching'
-    - title: 'Writings'
+    - title: 'Written Works'
       url: '/writings'
     - title: 'Presentations'
       url: '/presentations'
