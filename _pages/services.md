@@ -5,6 +5,8 @@ description: Thank you
 featured_image: /images/site/square-2.png
 ---
 
+![](/images/site/pagebanner/services.png)
+
 COMING SOON.
 
 <a href="/" class="button button--large">Back To Home</a>

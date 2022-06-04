@@ -5,6 +5,8 @@ description: This page lists all of my academic and non-academic publications.
 featured_image: /images/site/square-3.png
 ---
 
+![](/images/site/pagebanner/writings.png)
+
 ### Research Outputs
 
 **Journal Articles**

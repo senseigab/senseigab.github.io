@@ -5,7 +5,7 @@ description: This page lists all my past presentations and speaking engagements.
 featured_image: /images/site/square-7.png
 ---
 
-![](/images/me/2019esea.jpg)
+![](/images/site/pagebanner/presentations.png)
 
 ### Conferences and Symposia
 

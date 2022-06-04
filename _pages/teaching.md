@@ -5,7 +5,7 @@ description: This page describes my teaching philosophy and enumerates modules I
 featured_image: /images/site/square-2.png
 ---
 
-![](/images/me/2018feuwe.jpg)
+![](/images/site/pagebanner/teaching.png)
 
 My teaching interests include critical, corpus-based, and multimodal discourse studies; . Gab is also interested in fa
 

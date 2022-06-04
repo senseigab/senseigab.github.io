@@ -1,9 +1,4 @@
-<div class="gallery" data-columns="1">
-	<img src="/images/me/2019taipei101.jpg">
-	<img src="/images/me/2015grad.jpg">
-	<img src="/images/me/2019taipei.jpg">
-	<img src="/images/me/2020nanowin.jpg">
-</div>
+![](/images/site/pagebanner/about.png)
 
 ### Hello!
 
