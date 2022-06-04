@@ -1,1 +1,0 @@
-# senseigab.github.io
