@@ -1,11 +1,16 @@
 ---
-![](/images/site/pagebanner/writings.png)
-subtitle: Here is a list of my published work. I will share either the actual article or its pre-print here whenever possible. My research publications are also available in my ResearchGate and Academia.edu profiles. Feel free to email me if they're not here, so I can send them your way.
+title: Written Works
+subtitle: You can find all my written works listed here. 
 description: This page lists all of my academic and non-academic publications.
 featured_image: /images/site/square-7.png
 ---
 
 ![](/images/site/pagebanner/writings.png)
+
+Here is a list of my published work. I will share either the actual article or its pre-print here whenever possible. My research publications are also available in my ResearchGate and Academia.edu profiles. Feel free to email me if they're not here, so I can send them your way.
+
+### Opinion Pieces
+
 
 ### Research Outputs
 
