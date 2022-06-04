@@ -24,4 +24,5 @@ I am available to provide research assistance to undergraduate and graduate stud
 Please note that my assistance **is not equivalent to ghost writing** your work and that it **may still change depending on the feedback of your committee or panel of examiners.** My consultation fees for this service depend on the complexity of the research project itself. However, the minimum fee is PhP 1,250.00, which applies in most cases to undergraduate students. A discount can be given for researchers from disadvantaged backgrounds and with disabilities. 
 
 * **Interrater or intercoder validation:**
+
 <a href="/" class="button button--large">Back To Home</a>
