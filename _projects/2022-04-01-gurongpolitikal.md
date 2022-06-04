@@ -20,7 +20,7 @@ And that, my friends, is where politics creeps in.
 
 ### "So, are you partisan?"
 
-In some ways, yes, but being partisan IS NOT being political. Being political is much broader: I see it as a **struggle** over meaning.
+In some ways, yes, but being partisan is not the same as being political, even if they are related. Being political is much broader: I see it as a **struggle** over meaning.
 
 Being partisan means becoming connected with a person or group in electoral politics. We can be non-partisan but political, but you *cannot* be apolitical but partisan.
 
