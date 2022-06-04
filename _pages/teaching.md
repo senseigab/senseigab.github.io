@@ -15,7 +15,7 @@ Gab has also taught classes that are as small as six students and as large as 50
 Coming soon.
 
 ### Current Courses
-None.
+None. 
 
 ### Past Courses
 [**Language Learning Center, Far Eastern University, Manila**](https://www.feu.edu.ph) (January 3-21, 2022)
