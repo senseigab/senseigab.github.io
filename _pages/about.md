@@ -1,3 +1,10 @@
+---
+title: About
+subtitle: Let me tell you something about myself.
+description: Thank you
+featured_image: /images/site/square-2.png
+---
+
 ![](/images/site/pagebanner/about.png) 
 
 ### Hello!
