@@ -1,6 +1,6 @@
 ---
 title: Presentations
-subtitle: This page lists my public presentations presentations, whether invited or otherwise. My handouts and slide presentations can also be found here. If you'd like me to speak in your workshop, please check the Services page for more information. For easy navigation, please use Ctrl+F.
+subtitle: This page lists my public presentations, whether invited or otherwise. My handouts and slide presentations can also be found here. If you'd like me to speak in your workshop, please check the Services page for more information. For easy navigation, please use Ctrl+F.
 description: This page lists all my past presentations and speaking engagements.
 featured_image: /images/site/square-4.png
 ---
@@ -23,8 +23,6 @@ Gapas, W. G. A., & Lintao, R. B. (2017). Spoken communication difficulties and c
 "Becoming a Pinoy Researcher: Is It Even Worth it?" delivered during the Ready, Set, G! A Career and Life Webinar. The UST English Language Studies Society [online]. November 18, 2021. [Slides](https://senseigab.github.io/files/presentations/00_talks/2021_UST_Gapas.pdf)
 
 “The Languages/Linguistics Degree: The (Worth of a) Scholarly Path,” delivered during the SHS Lakbay 3: Passions and Possibilities Career Convention. Lourdes School of Mandaluyong City [online]. April 7, 2021. [Slides](https://senseigab.github.io/files/presentations/00_talks/2021_LSMC_Gapas.pdf).
-
-"Applying Corpus-Assisted Multimodal Discourse Analysis: A Discursive News Values Study of an Armed Conflict," The Graduate School, University of Santo Tomas, Manila [online]. September 12, 2020. [Slides unavailable]
 
 “Appreciating Language Realities through Philippine English,” delivered at the Bulacan Agricultural State College, San Ildefonso, Bulacan. August 28, 2019. [Slides](https://senseigab.github.io/files/presentations/00_talks/2019_BASC_Gapas.pdf).
 
