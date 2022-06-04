@@ -7,6 +7,10 @@ featured_image: /images/site/square-2.png
 
 ![](/images/me/2018feuwe.jpg)
 
+My teaching interests include critical, corpus-based, and multimodal discourse studies; . Gab is also interested in fa
+
+Gab has also taught classes that are as small as six students and as large as 50 students. My approach 
+
 ### Teaching Philosophy
 Coming soon.
 
