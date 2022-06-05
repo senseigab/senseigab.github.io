@@ -7,7 +7,7 @@ featured_image: /images/site/square-5.png
 
 ![](/images/site/pagebanner/teaching.png)
 
-My teaching interests include technical and professional communication, multimodality, (critical) discourse studies, corpus linguistics, forensic linguistics language politics and policies, linguistic landscapes, and language (teacher) education. I am also keen on facilitating courses on highly substantive topics such as the multimodal (re)construction of knowledge on the press, populist rhetoric, language aggression, discourses of public policies, and plurilingualism in Philippine higher education.
+My teaching interests include technical and professional communication, multimodality, (critical) discourse studies, corpus linguistics, forensic linguistics, language politics and policies, linguistic landscapes, and language (teacher) education. I am also keen on facilitating courses on highly substantive topics such as the multimodal (re)construction of knowledge on the press, populist rhetoric, language aggression, discourses of public policies, and plurilingualism in Philippine higher education.
 
 These interests grew from years of experience in English language teaching for adults and research in Philippine higher education. During those years, I have taught classes as small as six  and as large as 55 students. My approach is generally student-centered and is banked on ideas such as:
 * maintaining mutual respect;
