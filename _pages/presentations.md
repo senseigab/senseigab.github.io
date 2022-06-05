@@ -1,11 +1,13 @@
 ---
 title: Presentations
-subtitle: This page lists my public presentations, whether invited or otherwise. My handouts and slide presentations can also be found here. If you'd like me to speak in your workshop, please check the Services page for more information. For easy navigation, please use Ctrl+F.
+subtitle: Find information and resources concerning my talks, presentations, and workshops here. 
 description: This page lists all my past presentations and speaking engagements.
 featured_image: /images/site/square-4.png
 ---
 
 ![](/images/site/pagebanner/presentations.png)
+
+**This page lists my conference presentations, talks, and workshops delivered, as well as the supplementary materials used in delivering them. If you would like me to speak in your event as a facilitator or speaker, please check the [Services](/services) page for more information.** 
 
 ### Conferences and Symposia
 
@@ -17,8 +19,8 @@ Gapas, W. G. A. (2018). A discursive news values analysis of the Duterte adminis
 
 Gapas, W. G. A., & Lintao, R. B. (2017). Spoken communication difficulties and communication strategies of selected medical technology students. *The 2017 Philippine Association of Language Teachers Conference*, University of Santo Tomas, Manila. [slides](https://senseigab.github.io/files/presentations/01_PALT2017/Gapas_PALT2017.pdf)
 
-### Widening Participation and Outreach
-**I have given talks on action research, research ethics, discourse and gender, and World Englishes to a variety of students. I am also able to discuss other issues about journalism, linguistics, (English) language education, social justice, and other matters that might be in my interests or expertise. If you want me to speak on a specific issue, please contact me.**
+### Public Engagements
+**Apart from my public engagements with [The Community Linguist](https://tclinguistics.github.io), I have delivered seminars, talks, and trainings on various topics. These topics include the varieties of English(es), language and gender, research ethics, action research, and careers with a linguistics degree. I am also able to discuss issues about journalism, linguistics, (English) language education, social justice and other matters that might be in my interests or expertise. If you want me to speak on a specific issue, please contact me.**
 
 "Becoming a Pinoy Researcher: Is It Even Worth it?" delivered during the Ready, Set, G! A Career and Life Webinar. The UST English Language Studies Society [online]. November 18, 2021. [Slides](https://senseigab.github.io/files/presentations/00_talks/2021_UST_Gapas.pdf)
 
