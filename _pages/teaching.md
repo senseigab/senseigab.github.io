@@ -7,11 +7,16 @@ featured_image: /images/site/square-5.png
 
 ![](/images/site/pagebanner/teaching.png)
 
-I have a broad range of teaching interests, which include the following areas: critical discourse studies, multimodality, 
+My teaching interests include technical and professional communication, multimodality, (critical) discourse studies, corpus linguistics, forensic linguistics language politics and policies, linguistic landscapes, and language (teacher) education. I am also keen on facilitating courses on highly substantive topics such as the multimodal (re)construction of knowledge on the press, populist rhetoric, language aggression, discourses of public policies, and plurilingualism in Philippine higher education.
 
-My teaching interests include critical, corpus-based, and multimodal discourse studies; . Gab is also interested in fa
+These interests grew from years of experience in English language teaching for adults and research in Philippine higher education. During those years, I have taught classes as small as six  and as large as 55 students. My approach is generally student-centered and is banked on ideas such as:
+* maintaining mutual respect;
+* ensuring clarity and transparency in learning expectations;
+* negotiating learning goals, activities, and responsibilities with learners;
+* supporting learners with skills needed to complete requirements;
+* allowing opportunities for learners to reflect on their learning; and
+* discussing community issues (e.g., social justice issues) in the classroom.
 
-Gab has also taught classes that are as small as six students and as large as 50 students. My approach 
 
 ### Teaching Philosophy
 Coming soon.
