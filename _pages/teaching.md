@@ -7,6 +7,8 @@ featured_image: /images/site/square-5.png
 
 ![](/images/site/pagebanner/teaching.png)
 
+I have a broad range of teaching interests, which include the following areas: critical discourse studies, multimodality, 
+
 My teaching interests include critical, corpus-based, and multimodal discourse studies; . Gab is also interested in fa
 
 Gab has also taught classes that are as small as six students and as large as 50 students. My approach 
@@ -18,8 +20,8 @@ Coming soon.
 None. 
 
 ### Past Courses
-[**Language Learning Center, Far Eastern University, Manila**](https://www.feu.edu.ph) (January 3-21, 2022)
-* Technical Writing for ESL Students (a special research writing class for masters students)
+[**Language Learning Center, Far Eastern University, Manila**](https://www.feu.edu.ph)
+* Technical Writing for ESL Students (a special research writing class for masters students from January 3-21, 2022)
 
 [**College of Education, Colegio de San Juan de Letran, Manila**](https://www.letran.edu.ph) (August to December 2019)
 * Study and Critical Thinking Skills
