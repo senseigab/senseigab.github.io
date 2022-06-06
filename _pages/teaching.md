@@ -21,6 +21,8 @@ These interests grew from years of experience in English language teaching for a
 ### Teaching Philosophy
 Coming soon.
 
+<hr> 
+
 ### Current Courses
 None. 
 

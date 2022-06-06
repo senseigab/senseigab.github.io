@@ -19,6 +19,8 @@ Gapas, W. G. A. (2018). A discursive news values analysis of the Duterte adminis
 
 Gapas, W. G. A., & Lintao, R. B. (2017). Spoken communication difficulties and communication strategies of selected medical technology students. *The 2017 Philippine Association of Language Teachers Conference*, University of Santo Tomas, Manila. [slides](https://senseigab.github.io/files/presentations/01_PALT2017/Gapas_PALT2017.pdf)
 
+<hr>
+
 ### Public Engagements
 **Apart from my public engagements with [The Community Linguist](https://tclinguistics.github.io), I have delivered seminars, talks, and trainings on various topics. These topics include the varieties of English(es), language and gender, research ethics, action research, and careers with a linguistics degree. I am also able to discuss issues about journalism, linguistics, (English) language education, social justice and other matters that might be in my interests or expertise. If you want me to speak on a specific issue, please contact me.**
 
