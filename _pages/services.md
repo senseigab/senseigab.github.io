@@ -1,7 +1,7 @@
 ---
 title: Services
 subtitle: Find more information about my professional services. Maybe I can help!
-description: Thank you
+description: This page lists my professional services and their respective information.
 featured_image: /images/site/square-6.png
 ---
 
@@ -10,12 +10,15 @@ featured_image: /images/site/square-6.png
 ### Translation
 
 
+<hr>
 ### Language Editing
 
 
+<hr>
 ### Seminar and Workshop Facilitation
 
 
+<hr>
 ### Research Consultations
 I am available to provide research assistance to undergraduate and graduate students in the humanities and the social sciences in general, with particular specialisms in applied linguistics and education. While I tend to employ qualitative paradigms, I advocate mixed-methods approaches while abandoning the qualitative-quantitative binary, because all kinds of research have varying degrees of each end of the research spectrum. 
 
