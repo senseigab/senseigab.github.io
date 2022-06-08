@@ -28,4 +28,4 @@ Please note that my assistance **is not equivalent to ghost writing** your work 
 
 * **Interrater or intercoder validation:**
 
-<a href="/" class="button button--large">Back To Home</a>
+<a href="#" class="button button--large">Back to Top</a>

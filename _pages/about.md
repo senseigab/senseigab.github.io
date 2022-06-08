@@ -46,7 +46,7 @@ Resume (Public)
 Bionote
 
 You can find my Web of Science ResearcherID here:
-<span id="badgeCont871"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont871&rid=AGX-2931-2022"></script></span>
+<span id="badgeCont885"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont885&rid=AGX-2931-2022&size=small"></script></span>
 
 You can also find my ORCID profile here:
 <a id="cy-effective-orcid-url" class="underline" href="https://orcid.org/0000-0001-5156-3944" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align: top"> <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width: 1em; margin-inline-start: 0.1em" alt="ORCID iD icon"/>https://orcid.org/0000-0001-5156-3944</a>
