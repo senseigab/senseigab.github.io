@@ -17,7 +17,6 @@ These interests grew from years of experience in English language teaching for a
 * allowing opportunities for learners to reflect on their learning; and
 * discussing community issues (e.g., social justice issues) in the classroom.
 
-
 ### Teaching Philosophy
 Coming soon.
 
