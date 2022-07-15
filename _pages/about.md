@@ -2,7 +2,6 @@
 title: About
 subtitle: Let me tell you something about myself.
 description: I introduce myself in this page.
-featured_image: /images/site/square-4.png
 ---
 
 ![](/images/site/pagebanner/about.png) 

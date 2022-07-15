@@ -2,7 +2,6 @@
 title: Contact
 subtitle: Find my contact details here. 
 description: This page lists my other online profiles and other ways to reach me.
-featured_image: /images/site/square-3.png
 ---
 
 ![](/images/site/pagebanner/contact.png)
