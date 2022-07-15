@@ -1,10 +1,18 @@
 ---
 title: Contact
-subtitle: Duet comes with a built-in contact form, that's free and easy to set up.
-description: Duet is a beautiful Jekyll portfolio theme.
-featured_image: /images/demo/demo-landscape.jpg
+subtitle: Find my contact details here. 
+description: This page lists my other online profiles and other ways to reach me.
+featured_image: /images/site/square-3.png
 ---
 
-{% include contact-form.html %}
+![](/images/site/pagebanner/contact.png)
 
-We've made a contact form that you can use with [Formspree](https://formspree.io/create/jekyllthemes) to handle up to 50 submissions per month for free. You could also easily switch out the end-point to use another contact form service.
+**Wilfred Gabriel A. Gapas**
+
+* **Email:** [gapas.wga@gmail.com](mailto:gapas.wga@gmail.com) or [wgabrielgapas@gmail.com](mailto:wgabrielgapas@gmail.com)
+* **Social Media:** [Instagram](https://www.instagram.com/senseigab), [Twitter](https://www.twitter.com/senseigab), and [LinkedIn](https://www.linkedin.com/in/gapaswga/)
+* **Research Profiles:** [Academia](https://ust-ph.academia.edu/gapaswga), [ResearchGate](https://www.researchgate.net/profile/Wilfred_Gabriel_Gapas), [ORCID](https://orcid.org/0000-0001-5156-3944), [WoS ResearcherID](https://publons.com/researcher/1753178/wilfred-gabriel-a-gapas/)
+
+Have a question or want to explore the likelihood of working together? Drop me a message! 
+{% include contact-form.html %}
+**This form can only handle 50 submissions per month. Email me if it does not work.**

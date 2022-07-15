@@ -1,10 +1,14 @@
 ---
-title: Thank you
+title: Thank you!
 subtitle: Your message was sent successfully.
-description: Duet is a beautiful Jekyll portfolio theme.
-featured_image: /images/demo/demo-landscape.jpg
+description: Thank you
+featured_image: /images/site/square-2.png
 ---
 
-![](/images/demo/about.jpg)
+Please expect a reply from me within 7 to 12 working days. 
 
-Please note, this contact form is for demo purposes only and is not monitored. Please contact us [via our website](https://jekyllthemes.io) if you need support.
+If you haven't received any after 12 working days, please follow up your message through [email](mailto:gapas.wga@gmail.com). 
+
+Thank you!
+
+<a href="/" class="button button--large">Back To Home</a>
