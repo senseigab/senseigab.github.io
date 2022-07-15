@@ -10,12 +10,16 @@ menu_settings:
   menu_items:
     - title: 'Projects'
       url: '/'
-    - title: 'Blog'
-      url: '/blog/'
     - title: 'About'
       url: '/about'
+    - title: 'Teaching'
+      url: '/teaching'
+    - title: 'Writing'
+      url: '/writing'
     - title: 'Contact'
       url: '/contact'
+    - title: 'Blog'
+      url: '/blog/'
 
 footer_settings:
   logo_image: 
@@ -61,7 +65,7 @@ social_settings:
   linkedin_url: 'https://ph.linkedin.com/in/gapaswga'
 
 color_settings:
-  background_color: '#ffe4e1'
+  background_color: '#f0fff0'
   background_alt_color: '#f4f5f6'
   text_dark_color: '#2A2F36'
   text_medium_color: '#6C7A89'
