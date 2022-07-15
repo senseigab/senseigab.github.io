@@ -11,7 +11,7 @@ city: Manila
 state: NCR
 zip_code: 1015
 country: Philippines
-phone: -
+phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
