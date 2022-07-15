@@ -22,9 +22,10 @@ Coming soon.
 <hr> 
 
 ### Current Courses
-University of Santo Tomas
+[**Department of English, Faculty of Arts and Letters, University of Santo Tomas**](https://www.ust.edu.ph/arts-and-letters/department-of-english)
 
 Coming soon.
+
 
 ### Past Courses
 [**Language Learning Center, Far Eastern University, Manila**](https://www.feu.edu.ph)
