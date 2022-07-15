@@ -1,7 +1,7 @@
 ---
 title: About
 subtitle: Let me tell you something about myself.
-description: Thank you
+description: I introduce myself in this page.
 featured_image: /images/site/square-4.png
 ---
 
