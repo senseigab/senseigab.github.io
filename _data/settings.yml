@@ -16,8 +16,6 @@ menu_settings:
       url: '/teaching'
     - title: 'Scholarship'
       url: '/scho'
-    - title: 'Services'
-      url: '/services'
     - title: 'Contact'
       url: '/contact'
     - title: 'Blog'
