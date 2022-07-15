@@ -1,0 +1,44 @@
+# site settings
+title: Wilfred Gabriel A. Gapas
+subtitle: 
+email: wgabrielgapas@gmail.com
+description: Insert description here
+baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author: Wilfred Gabriel Gapas
+street_address: University of Santo Tomas
+city: Manila
+state: NCR
+zip_code: 1015
+country: Philippines
+phone: 
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: https://github.com/senseigab
+  GitLab:
+  Google-Plus: 
+  Instagram: https://www.instagram.com/senseigab
+  LinkedIn: https://www.linkedin.com/in/gapaswga
+  Twitter: https://www.twitter.com/senseigab
+  Facebook:
+  Slack:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
