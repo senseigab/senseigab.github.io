@@ -14,12 +14,10 @@ menu_settings:
       url: '/about'
     - title: 'Teaching'
       url: '/teaching'
+    - title: 'Scholarship'
+      url: '/scho'
     - title: 'Services'
       url: '/services'
-    - title: 'Talks'
-      url: '/talks'
-    - title: 'Writing'
-      url: '/writing'
     - title: 'Contact'
       url: '/contact'
     - title: 'Blog'
@@ -28,7 +26,7 @@ menu_settings:
 footer_settings:
   logo_image: 
   logo_width: 200
-  footer_tagline: Educator and Applied Linguistics Researcher
+  footer_tagline: An Educator and Applied Linguistics Researcher
 
 grid_settings:
   overlay_opacity: 0.8
