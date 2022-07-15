@@ -1,6 +1,6 @@
 ---
 title: 'Speaking engagement: Language, Gender, and Discourses: Things People Should Know'
-date: 2017-08-01 12:33:08
+date: 2017-08-01 12:35:08
 featured_image: '/images/site/square-4.png'
 excerpt: I will be speaking at "the Third Communication Conference: Exploring the Realm of Communication," scheduled on August 4-5, 2017 at the Henry Sy Sr. Hall, De La Salle University. 
 ---
