@@ -12,14 +12,15 @@ menu_settings:
       url: '/'
     - title: 'About'
       url: '/about'
+    - title: 'Blog'
+      url: '/blog/'
     - title: 'Teaching'
       url: '/teaching'
     - title: 'Scholarship'
       url: '/scholarship'
-    - title: 'Contact'
-      url: '/contact'
-    - title: 'Blog'
-      url: '/blog/'
+    - title: 'Services'
+      url: '/services'
+
 
 footer_settings:
   logo_image: 
