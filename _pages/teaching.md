@@ -26,6 +26,7 @@ Coming soon.
 
 Coming soon.
 
+If you are my student at UST and would like to set an online consultation, please schedule one [here](https://doodle.com/bp/wilfredgabrielgapas/thomasian-stco). :)
 
 ### Past Courses
 [**Language Learning Center, Far Eastern University, Manila**](https://www.feu.edu.ph)
