@@ -31,7 +31,7 @@ When I work with others, particularly my (future) students, I hope to become a r
 
 (4) **Competent:** Teachers are by definition interdisciplinary and need to demonstrate disciplinary depth and breadth. As such, I also wish to be a language teacher (and eventually, a teacher educator) that demonstrates such competence in both content and pedagogy. In aspiring for competence, I aim to develop multi-, inter-, and transdisciplinary expertise and affirm my dedication to lifelong learning. 
 
-(5) **Empowering community builder:** I hope to become an community builder that can cultivate healthy, prosperous relationships between diverse people of all stripes. As such, I hope to become capable of mobilizing groups to address various issues in our communities.
+(5) **Empowering community builder:** I hope to become a community builder that can cultivate healthy, prosperous relationships between diverse people of all stripes. As such, I hope to become capable of mobilizing groups to address various issues in our communities.
 
 ### My Ideal Education Mentor
 
