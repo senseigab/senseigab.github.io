@@ -23,15 +23,15 @@ I have encountered many role models and mentors throughout my existence. However
 
 When I work with others, particularly my (future) students, I hope to become a role model that is:
 
-1.**Socially aware and active:** I hope to serve as a model that promotes their criticality and social consciousness to develop learners that can contend with and challenge inequality and the structures that perpetuate it.
+(1) **Socially aware and active:** I hope to serve as a model that promotes their criticality and social consciousness to develop learners that can contend with and challenge inequality and the structures that perpetuate it.
 
-2.**Ethical and responsible glocal citizen:** I also hope to become a role model that embodies social justice and fairness in thoughts, words, and actions. In addition, I strive to be able to guide others in coping with 21st century demands with a deep sense of social responsibility.
+(2) **Ethical and responsible glocal citizen:** I also hope to become a role model that embodies social justice and fairness in thoughts, words, and actions. In addition, I strive to be able to guide others in coping with 21st century demands with a deep sense of social responsibility.
 
-3.**Compassionate:** I aspire to become a model that is able to support and sympathize or empathize with people in their sentiments and experiences.
+(3) **Compassionate:** I aspire to become a model that is able to support and sympathize or empathize with people in their sentiments and experiences.
 
-4.**Competent:** Teachers are by definition interdisciplinary and need to demonstrate disciplinary depth and breadth. As such, I also wish to be a language teacher (and eventually, a teacher educator) that demonstrates such competence in both content and pedagogy. In aspiring for competence, I aim to develop multi-, inter-, and transdisciplinary expertise and affirm my dedication to lifelong learning. 
+(4) **Competent:** Teachers are by definition interdisciplinary and need to demonstrate disciplinary depth and breadth. As such, I also wish to be a language teacher (and eventually, a teacher educator) that demonstrates such competence in both content and pedagogy. In aspiring for competence, I aim to develop multi-, inter-, and transdisciplinary expertise and affirm my dedication to lifelong learning. 
 
-5.**Empowering community builder:** I hope to become an community builder that can cultivate healthy, prosperous relationships between diverse people of all stripes. As such, I hope to become capable of mobilizing groups to address various issues in our communities.
+(5) **Empowering community builder:** I hope to become an community builder that can cultivate healthy, prosperous relationships between diverse people of all stripes. As such, I hope to become capable of mobilizing groups to address various issues in our communities.
 
 ### My Ideal Education Mentor
 
