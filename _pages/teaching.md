@@ -30,7 +30,7 @@ If you are my student at UST and would like to set an online consultation, pleas
 
 ### Past Courses
 [**Language Learning Center, Far Eastern University, Manila**](https://www.feu.edu.ph)
-* Technical Writing for ESL Students (a special research writing class for masters students from January 3-21, 2022)
+* Technical Writing for ESL Students (a special class for masters students from January 3-21, 2022)
 
 [**College of Education, Colegio de San Juan de Letran, Manila**](https://www.letran.edu.ph) (August to December 2019)
 * Study and Critical Thinking Skills
