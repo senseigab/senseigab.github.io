@@ -85,10 +85,10 @@ font_settings:
   regular_weight: 400
   bold_weight: 600
   site_title:
-    small_size: 22
-    medium_size: 27
-    large_size: 33
-    weight: 700
+    small_size: 20
+    medium_size: 25
+    large_size: 30
+    weight: 650
     letter_spacing: -0.02
   menu:
     small_size: 30
@@ -111,7 +111,7 @@ font_settings:
   h1:
     small_size: 25
     medium_size: 30
-    large_size: 38
+    large_size: 37
     weight: 700
     letter_spacing: -0.02
     line_height: 1.2
