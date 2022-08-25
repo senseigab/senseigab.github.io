@@ -16,7 +16,7 @@ Meanwhile, my research interests are broadly situated under sociolinguistics, di
 * language aggression;
 * the language of healthcare and healthcare institutions;
 * the discourses of public policy surrounding disasters and education;
-* the multimodal construction and representation of knowledge and identity in the media (e.g., video games, news, etc.);
+* the multimodal construction and representation of knowledge and identity in the media;
 * (instructed) second language acquisition; and
 * the promotion of plurilingual awareness in education systems.
 
