@@ -1,10 +1,9 @@
 ---
 title: 'PD 4: A Newbie Dancer's Source of Inspiration'
 subtitle: 'Reflections about Teaching and Learning'
-date: 2022-07-20 21:53:29
+date: 2022-07-20 08:16:21
 featured_image: '/images/site/square-4.png'
 ---
-
 *This post is part of my blog project "[Pedagogy Discourses](https://www.pedagogydiscs.wordpress.com) (PDs)," which is a course requirement at the University of the Philippines Open University (UPOU).*
 
 Observational learning has had a huge influence in my learning journey as a dancer. This is because a substantial part of it involves observing closely the model dancer - whether a live one or on video - and attempting to (re)produce their movements. But anyone who has ever attempted to do a choreography will realize that they will not get it completely right in the first round of practice. As such, they need to stay motivated to ensure that they continue practicing towards what some dancers call "high performance level."
