@@ -1,7 +1,7 @@
 ---
 title: 'PD 4: A Newbie Dancer's Source of Inspiration'
 subtitle: 'Reflections about Teaching and Learning'
-date: 2022-07-20 08:16:21
+date: 2022-07-21 08:16:21
 featured_image: '/images/site/square-4.png'
 ---
 *This post is part of my blog project "[Pedagogy Discourses](https://www.pedagogydiscs.wordpress.com) (PDs)," which is a course requirement at the University of the Philippines Open University (UPOU).*
