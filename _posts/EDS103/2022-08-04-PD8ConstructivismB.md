@@ -22,7 +22,7 @@ Based on the inventory. my dominant perspectives were *Social Reform* and *Devel
 
 ### How Constructivist, then?
 
-I would like to think that I observe constructivist principles - that is, I seek to create student-centered yet *teacher-guided* language classrooms. This is where one of my dominant perspectives - Developmental - comes in: I see my role as a facilitator that strives to develop learners' proficiency and critical language awareness, which enables them to understand the role of language in bulding social relations. When I ask questions during interactive class discussions, I often encourage my students to relate new information to their previous experiences. Furthermore, the questions I give them during discussions are in increasing complexity in order to develop gradually their higher-order thinking skills. 
+I would like to think that I observe constructivist principles - that is, I seek to create student-centered yet *teacher-guided* language classrooms. This is where one of my dominant perspectives - Developmental - comes in: I see my role as a facilitator that strives to develop learners' proficiency and critical language awareness, which enables them to understand the role of language in building social relations. When I ask questions during interactive class discussions, I often encourage my students to relate new information to their previous experiences. Furthermore, the questions I give them during discussions are in increasing complexity in order to develop gradually their higher-order thinking skills. 
 
 Although my Apprenticeship perspective was recessive, it does not mean that I never observed it. In fact, I have faith in my students' ability to learn from each other through project-based learning, think-pair-share, and similar activities that require close collaboration so that they can learn from each other. I also understand that as a facilitator, my main role is to guide them in difficult tasks for them to gain the capacity to become independent learners. 
 
@@ -32,7 +32,7 @@ Secondly, I have encountered occasions where my subject matter requires frontal 
 
 Thirdly, I found that relying on constructivist approaches can be time-consuming. Since there is an institutional expectation on me to follow the syllabus within a semester, I had no choice but to constantly find a blend of teacher-centered and learner-centered approaches. 
 
-### Sharpening My Constructivism
+### Sharpening My Constructivist Senses
 
 Given these (systemic) constraints, it seems becoming a full-fledged constructivist is not feasible. However, I believe my constructivism can be better sharpened through following strategies: 
 
@@ -48,7 +48,7 @@ Given these (systemic) constraints, it seems becoming a full-fledged constructiv
 
 Constructivism has encouraged a paradigm shift from teacher-centered to student-centered classrooms. However, given the different constraints on most teachers, perhaps it is best to see teacher-centeredness and student-centeredness as two points in a continuum. Where exactly our pedagogy should be located in that continuum, however, is situational - that is, it depends on the nature of our students, materials, facilities, and even learning atmospheres. Since these factors differ for each context, Dogancay-Aktuna and Hardman (2012)[^2] was correct in pointing out that there are no "best methods" for (language) teaching. 
 
-Thus, I believe it is more productive to call on teachers to be sensitive to their own teaching and learning contexts instead of advocating for strongly constructivist methods. One way to develop such a sensitivity is to encourage and engage in classroom action research and become informed of what methods are appropriate for our students. In fact, it is possible to integrate different learning-teaching methods and approaches - become an eclectic teacher - in order to suite the needs of our learners. Furthermore, we must engage in incessant reflection on what works best and what does not work in the classroom. 
+Thus, I believe it is more productive to call on teachers to be sensitive to their own teaching and learning contexts instead of advocating for strongly constructivist methods. One way to develop such a sensitivity is to encourage and engage in classroom action research and become informed of what methods are appropriate for our students. In fact, it is possible to integrate different learning-teaching methods and approaches - become an eclectic teacher - in order to suit the needs of our learners. Furthermore, we must engage in incessant reflection on what works best and what does not work in the classroom. 
 
 [^1]: Freire, P. (2005). *Pedagogy of the oppressed: 30th anniversary edition*. Continuum.
 [^2]: Dogancay-Aktuna, S., & Hardman, J. (2012). Teacher education for EIL: Working toward a situated meta-praxis. In A. Matsuda (Ed.), *Principles and practices of teaching English as an international language* (pp. 103-118). Multilingual Matters.  
