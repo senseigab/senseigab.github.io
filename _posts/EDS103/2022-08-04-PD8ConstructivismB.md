@@ -6,7 +6,7 @@ featured_image: '/images/site/square-4.png'
 ---
 *This post is part of my blog project "[Pedagogy Discourses](https://www.pedagogydiscs.wordpress.com) (PDs)," which is a course requirement at the University of the Philippines Open University (UPOU).*
 
-In my *Principles of Teaching* course, we were tasked to accomplish the [Teaching Perspectives Inventory](http://www.teachingperspectives.com/tpi/) and assess our own results. This inventory provided us a series of questions, each of which points to beliefs, intentions, and actions that are particular teaching perspective. In addition, the inventory is believed to be useful in constructing our own philosophy of teaching. These perspectives are as follows:
+In my *Principles of Teaching* course, we were tasked to accomplish the [Teaching Perspectives Inventory](http://www.teachingperspectives.com/tpi/) and assess our own results. This inventory provided us a series of questions, each of which points to beliefs, intentions, and actions that are particular to a teaching perspective. In addition, the inventory is believed to be useful in constructing our own philosophy of teaching. These perspectives are as follows:
 
 **(a) Transmission:** Educators who hold this perspective prioritize content or subject matter mastery as the goal of the teaching-learning process. Those who hold this view apply different strategies grounded on cognitive information processing such as setting clear objectives, providing reviews, and finding the appropriate pacing for lectures.
 
