@@ -4,6 +4,9 @@ subtitle: 'Reflections on Learning about Teaching'
 date: 2022-07-04 10:27:00
 featured_image: '/images/site/square-4.png'
 ---
+
+![](/images/peddiscs/banners/PD1.png)
+
 *This post is part of my blog project "[Pedagogy Discourses](https://www.pedagogydiscs.wordpress.com) (PDs)," which is a course requirement at the University of the Philippines Open University (UPOU).*
 
 ### Introduction: Looking Back

@@ -4,6 +4,9 @@ subtitle: 'Reflections about Teaching and Learning'
 date: 2022-07-22 12:02:00
 featured_image: '/images/site/square-4.png'
 ---
+
+![](/images/peddiscs/banners/PD5.png)
+
 *This post is part of my blog project "[Pedagogy Discourses](https://www.pedagogydiscs.wordpress.com) (PDs)," which is a course requirement at the University of the Philippines Open University (UPOU).*
 
 *This is in response to the activity on role models.* 

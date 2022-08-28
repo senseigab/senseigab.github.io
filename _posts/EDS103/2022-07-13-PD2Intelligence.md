@@ -4,6 +4,9 @@ subtitle: 'Reflections on Learning about Teaching'
 date: 2022-07-04 10:27:00
 featured_image: '/images/site/square-4.png'
 ---
+
+![](/images/peddiscs/banners/PD2.png)
+
 *This post is part of my blog project "[Pedagogy Discourses](https://www.pedagogydiscs.wordpress.com) (PDs)," which is a course requirement at the University of the Philippines Open University (UPOU).*
 
 When I was in Grade 6, my former school had an acceleration system. This system means that if you get a high grade, you can skip Grade 7 - and note that this was before K-12 - and head directly to first year high school. I was somewhat pressured by my peers to aim for acceleration, but it proved to be quite impossible for me at the time. Mathematics was incredibly difficult for me, especially since this was the stage when I first became acquainted with algebra. In addition, I recall struggling with my Filipino classes as well because at the time, I struggled to interpret poems and did not get high test scores as I did in my other classes. I was not also good in my Physical Education classes and could not do the dribbling techniques well. As such, I failed to qualify for acceleration and still went to Grade 7. 

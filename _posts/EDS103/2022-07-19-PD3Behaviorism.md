@@ -4,6 +4,9 @@ subtitle: 'Reflections about Teaching and Learning'
 date: 2022-07-19 08:16:21
 featured_image: '/images/site/square-4.png'
 ---
+
+![](/images/peddiscs/banners/PD3.png)
+
 *This post is part of my blog project "[Pedagogy Discourses](https://www.pedagogydiscs.wordpress.com) (PDs)," which is a course requirement at the University of the Philippines Open University (UPOU).*
 
 ### The Lasting Legacy of Behaviorism
