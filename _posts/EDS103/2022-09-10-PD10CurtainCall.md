@@ -1,5 +1,5 @@
 ---
-title: 'PD 10: Enabling Learning with Sharper Eyes'
+title: 'PD 10: Am I Even a Constructivist?'
 subtitle: 'Reflections about Teaching and Learning'
 date: 2022-09-10 23:58:00
 featured_image: '/images/site/square-4.png'
