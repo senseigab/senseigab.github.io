@@ -1,7 +1,7 @@
 ---
 title: 'PD 9: How I Know Learning Happens'
 subtitle: 'Reflections about Teaching and Learning'
-date: 2022-08-04 10:32:00
+date: 2022-08-27 08:13:00
 featured_image: '/images/peddiscs/squares/PD9.png'
 ---
 *This post is part of my blog project "[Pedagogy Discourses](https://www.pedagogydiscs.wordpress.com) (PDs)," which is a course requirement at the University of the Philippines Open University (UPOU).*
