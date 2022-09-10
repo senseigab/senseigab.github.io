@@ -1,5 +1,5 @@
 ---
-title: 'PD 10 (The Curtain Call): Making Learning Happen with Sharper Eyes'
+title: 'PD 10: Making Learning Happen with Sharper Eyes'
 subtitle: 'Reflections about Teaching and Learning'
 date: 2022-09-10 23:58:00
 featured_image: '/images/site/square-4.png'
@@ -9,7 +9,7 @@ featured_image: '/images/site/square-4.png'
 
 *This post is part of my blog project "[Pedagogy Discourses](https://www.pedagogydiscs.wordpress.com) (PDs)," which is a course requirement at the University of the Philippines Open University (UPOU).*
 
-### Looking Back (Again)
+### Looking Back (Again) Before the Curtain Falls
 
 You might recall that I started this blog by looking back at my previous experiences as a first-time teacher. When I started this learning adventure at the UP Open Universeity, I had with me an awareness of research-based theories about learning, particularly those relevant to language learning due to my applied linguistics background. Moreover, I had an intense desire to improve the way I teach. While my Professional Teacher Certification courses this trimester - *Theories of Learning* and *Principles of Teaching* - are definitely not enough to satisfy that desire, both have given me sufficient food for thought about the teaching and learning process. The latter allowed me to concretize how learning theories can be translated in actual teaching principles, while the former - where this final entry will focus - pushes me to (re)consider my own preconceived beliefs about how and when we generally learn. This time, my understanding of learning has expanded beyond yet still grounded on the confines of language acquisition and learning. In fact, this experience makes me feel to have gained a deeper understanding of why my past students did (not) learn successfully under my teaching. 
 
