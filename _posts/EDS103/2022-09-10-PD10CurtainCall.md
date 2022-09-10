@@ -1,10 +1,9 @@
 ---
-title: 'PD 10: Am I Even a Constructivist?'
+title: 'PD 9: Am I Even a Constructivist?'
 subtitle: 'Reflections about Teaching and Learning'
-date: 2022-09-10 23:58:00
+date: 2022-08-04 10:32:00
 featured_image: '/images/site/square-4.png'
 ---
-
 ![](/images/peddiscs/banners/PD10.png)
 
 *This post is part of my blog project "[Pedagogy Discourses](https://www.pedagogydiscs.wordpress.com) (PDs)," which is a course requirement at the University of the Philippines Open University (UPOU).*
