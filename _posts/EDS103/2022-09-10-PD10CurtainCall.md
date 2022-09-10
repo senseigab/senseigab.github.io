@@ -1,7 +1,7 @@
 ---
-title: 'PD 9: Am I Even a Constructivist?'
+title: 'PD 10: Enabling Learning with Sharper Eyes'
 subtitle: 'Reflections about Teaching and Learning'
-date: 2022-08-04 10:32:00
+date: 2022-09-10 11:58:00
 featured_image: '/images/site/square-4.png'
 ---
 ![](/images/peddiscs/banners/PD10.png)
