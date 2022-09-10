@@ -1,9 +1,16 @@
 ---
-title: 'PD8: Am I Even a Constructivist?'
+title: 'PD 10: My Language Learning Epistemology'
 subtitle: 'Reflections about Teaching and Learning'
-date: 2022-08-04 10:32:00
+date: 2022-08-27 06:10:23
 featured_image: '/images/site/square-4.png'
 ---
 *This post is part of my blog project "[Pedagogy Discourses](https://www.pedagogydiscs.wordpress.com) (PDs)," which is a course requirement at the University of the Philippines Open University (UPOU).*
 
-In my *Principles of Teaching* course, we were tasked to accomplish the [Teaching Perspectives Inventory](http://www.teachingperspectives.com/tpi/) and assess our own results. This inventory provided us a series of questions, each of which points to a particular teaching perspective. Such a perspective may be 
+### Why Epistemology?
+
+
+
+
+
+
+Based on the readings for this topic, how would you characterize your epistemological beliefs? How have these beliefs been facilitating or inhibiting to the ways you learn? (Note that your response to the question may vary, depending on the academic discipline you refer to. In other words, you may hold a different set of epistemological beliefs in science and math as compared to your beliefs in history and social sciences.)
