@@ -26,27 +26,3 @@ Lastly, since I look forward to becoming a (language) education researcher as we
 I believe that these research-based learning (and teaching) principles can help classroom-level issues, but I feel that there is only so much that these theories can do. After all, the education crisis of the Philippines is not just about learning and teaching processes. It also has to do with the cost-of-living, unemployment, poverty, disinformation, and many other interrelated sociopolitical and economic issues. Hence, beyond learning to be better teachers and learners, we must be louder in our call for greater support to the entire education system and work collectively in addressing the systemic issues that affect it. Maybe in that way, we can make learning in our society become more proactive and progressive. 
 
 Thank you very much for journeying with me through theories and concepts of learning. We will meet again someday!
-
-
-### Quick Links to Past Entries (EDS 103)
-
-**PD 1:** Looking Back, Looking Forward
-
-**PD 2:** Musing about Intelligence(s)
-
-**PD 3:** Does Behaviorism Live On?
-
-**PD 4:** A Newbie Dancer's Source of Inspiration
-
-**PD 5:** Life Models and Mentors 
-
-**PD 6:** Preparing for the Written Comprehensive Exams
-
-**PD 7:** Am I Even a Constructivist? 
-
-**PD 8:** Learning Woes
-
-**PD 9:**
-
-**PD 10:** Curtain Call: Making Learning Happen with Sharper Eyes (You're here!)
-
