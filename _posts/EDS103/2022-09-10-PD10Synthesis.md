@@ -1,5 +1,5 @@
 ---
-title: 'PD 10: Curtain Call - Making Learning Happen with Sharper Eyes'
+title: 'PD 10 (The Curtain Call): Making Learning Happen with Sharper Eyes'
 subtitle: 'Reflections about Teaching and Learning'
 date: 2022-09-10 23:58:00
 featured_image: '/images/site/square-4.png'
