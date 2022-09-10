@@ -2,7 +2,7 @@
 title: 'PD 4: A Newbie Dancer`s Source of Inspiration'
 subtitle: 'Reflections about Teaching and Learning'
 date: 2022-07-21 08:16:21
-featured_image: '/images/site/square-4.png'
+featured_image: '/images/peddiscs/squares/PD4.png'
 ---
 
 ![](/images/peddiscs/banners/PD4.png)

@@ -2,7 +2,7 @@
 title: 'PD 5: Life Models and Mentors'
 subtitle: 'Reflections about Teaching and Learning'
 date: 2022-07-22 12:02:00
-featured_image: '/images/site/square-4.png'
+featured_image: '/images/peddiscs/squares/PD5.png'
 ---
 
 ![](/images/peddiscs/banners/PD5.png)

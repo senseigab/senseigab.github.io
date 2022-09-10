@@ -2,7 +2,7 @@
 title: 'PD 7: Learning Woes'
 subtitle: 'Reflections about Teaching and Learning'
 date: 2022-08-03 10:32:00
-featured_image: '/images/site/square-4.png'
+featured_image: '/images/peddiscs/squares/PD7.png'
 ---
 
 ![](/images/peddiscs/banners/PD7.png)

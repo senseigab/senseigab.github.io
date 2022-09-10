@@ -2,7 +2,7 @@
 title: 'PD 8: Am I Even a Constructivist?'
 subtitle: 'Reflections about Teaching and Learning'
 date: 2022-08-04 10:32:00
-featured_image: '/images/site/square-4.png'
+featured_image: '/images/peddiscs/squares/PD8.png'
 ---
 
 ![](/images/peddiscs/banners/PD8.png)

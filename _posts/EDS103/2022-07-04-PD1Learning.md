@@ -2,7 +2,7 @@
 title: 'PD1: Looking Back, Looking Forward'
 subtitle: 'Reflections on Learning about Teaching'
 date: 2022-07-04 10:27:00
-featured_image: '/images/site/square-4.png'
+featured_image: '/images/peddiscs/squares/PD1.png'
 ---
 
 ![](/images/peddiscs/banners/PD1.png)

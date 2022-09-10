@@ -2,7 +2,7 @@
 title: 'PD 2: Musing about Intelligences'
 subtitle: 'Reflections on Learning about Teaching'
 date: 2022-07-04 10:27:00
-featured_image: '/images/site/square-4.png'
+featured_image: '/images/peddiscs/squares/PD2.png'
 ---
 
 ![](/images/peddiscs/banners/PD2.png)

@@ -2,7 +2,7 @@
 title: 'PD 3: Does Behaviorism Live On?'
 subtitle: 'Reflections about Teaching and Learning'
 date: 2022-07-19 08:16:21
-featured_image: '/images/site/square-4.png'
+featured_image: '/images/peddiscs/squares/PD3.png'
 ---
 
 ![](/images/peddiscs/banners/PD3.png)

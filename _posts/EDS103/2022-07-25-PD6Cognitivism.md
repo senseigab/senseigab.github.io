@@ -2,7 +2,7 @@
 title: 'PD 6: Preparing for the Written Comprehensive Exams'
 subtitle: 'Reflections about Teaching and Learning'
 date: 2022-07-25 11:19:00
-featured_image: '/images/site/square-4.png'
+featured_image: '/images/peddiscs/squares/PD6.png'
 ---
 
 ![](/images/peddiscs/banners/PD6.png)
