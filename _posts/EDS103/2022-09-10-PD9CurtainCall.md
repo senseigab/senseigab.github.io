@@ -1,11 +1,11 @@
 ---
-title: 'PD 10: Enabling Learning with Sharper Eyes'
+title: 'PD 9: Enabling Learning with Sharper Eyes'
 subtitle: 'Reflections about Teaching and Learning'
 date: 2022-09-10 11:58:00
 featured_image: '/images/peddiscs/squares/PD10.png'
 ---
 
-![](/images/peddiscs/banners/PD10.png)
+![](/images/peddiscs/banners/PD9.png)
 
 *This post is part of my blog project "[Pedagogy Discourses](https://www.pedagogydiscs.wordpress.com) (PDs)," which is a course requirement at the University of the Philippines Open University (UPOU).*
 
