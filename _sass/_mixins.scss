@@ -1,66 +1,136 @@
-@mixin transition-all()
-{
-    -webkit-transition: all 0.35s;
-    -moz-transition: all 0.35s;
-    transition: all 0.35s;
-}
+// - - - - - - - - - - - - - - - - - -
 
-@mixin background-cover()
-{
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
-}
+// Mixins
 
-@mixin button-variant($color, $background, $border)
-{
-	color: $color;
-	background-color: $background;
-	border-color: $border;
-	@include transition-all;
+// - - - - - - - - - - - - - - - - - -
 
-	&:hover,
-	&:focus,
-	&.focus,
-	&:active,
-	&.active,
-	.open > .dropdown-toggle & {
-		color: $color;
-		background-color: darken($background, 5%);
-    border-color: darken($border, 7%);
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Responsive
+// Usage: @include mq(tabletp) {}
+
+$break-phonel: 480px;
+$break-tabletp: 768px;
+$break-tabletl: 1024px;
+$break-laptop: 1220px;
+$break-desktop: 1420px;
+
+@mixin mq($media) {
+	@if $media == phonel {
+		@media only screen and (min-width: $break-phonel) { @content; }
 	}
-	&:active,
-	&.active,
-	.open > .dropdown-toggle & {
-		background-image: none;
+	@else if $media == tabletp {
+		@media only screen and (min-width: $break-tabletp) { @content; }
 	}
-	&.disabled,
-	&[disabled],
-	fieldset[disabled] & {
-		&,
-		&:hover,
-		&:focus,
-		&.focus,
-		&:active,
-		&.active {
-			background-color: $background;
-			border-color: $border;
-		}
+	@else if $media == tabletl {
+		@media only screen and (min-width: $break-tabletl) { @content; }
 	}
-
-	.badge {
-		color: $background;
-		background-color: $color;
+	@else if $media == laptop {
+		@media only screen and (min-width: $break-laptop) { @content; }
+	}
+	@else if $media == desktop {
+		@media only screen and (min-width: $break-desktop) { @content; }
 	}
 }
 
-@mixin sans-serif-font()
-{
-	font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Transitions
+// Usage: @include transition(color .3s ease);
+
+@mixin transition($args...) {
+  -webkit-transition: $args;
+  -moz-transition: $args;
+  -ms-transition: $args;
+  -o-transition: $args;
+  transition: $args;
 }
 
-@mixin serif-font()
-{
-	font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Animations
+// Usage:
+// @include keyframes(slide-down) {
+//   0% { opacity: 1; }
+//   90% { opacity: 0; }
+// }
+// .element {
+//   @include animation('slide-down 5s 3');
+// }
+
+@mixin keyframes($animation-name) {
+    @-webkit-keyframes #{$animation-name} {
+        @content;
+    }
+    @-moz-keyframes #{$animation-name} {
+        @content;
+    }  
+    @-ms-keyframes #{$animation-name} {
+        @content;
+    }
+    @-o-keyframes #{$animation-name} {
+        @content;
+    }  
+    @keyframes #{$animation-name} {
+        @content;
+    }
 }
+
+@mixin animation($str) {
+  -webkit-animation: #{$str};
+  -moz-animation: #{$str};
+  -ms-animation: #{$str};
+  -o-animation: #{$str};
+  animation: #{$str};      
+}
+
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Transforms
+// Usage:
+// @include skew(25,10);
+// @include transform-origin(top left);
+
+@mixin transform($transforms) {
+     -moz-transform: $transforms;
+       -o-transform: $transforms;
+      -ms-transform: $transforms;
+  -webkit-transform: $transforms;
+          transform: $transforms;
+}
+
+@mixin rotate ($deg) {
+  @include transform(rotate(#{$deg}deg));
+}
+@mixin scale($scale) {
+  @include transform(scale($scale));
+} 
+@mixin translate ($x, $y) {
+  @include transform(translate($x, $y));
+}
+@mixin skew ($x, $y) {
+  @include transform(skew(#{$x}deg, #{$y}deg));
+}
+@mixin transform-origin ($origin) {
+    moz-transform-origin: $origin;
+       -o-transform-origin: $origin;
+      -ms-transform-origin: $origin;
+  -webkit-transform-origin: $origin;
+          transform-origin: $origin;
+}
+
+
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Styles
+
+@mixin box-shadow($top, $left, $blur, $color, $inset: false) {
+  @if $inset {
+    -webkit-box-shadow:inset $top $left $blur $color;
+    -moz-box-shadow:inset $top $left $blur $color;
+    box-shadow:inset $top $left $blur $color;
+  } @else {
+    -webkit-box-shadow: $top $left $blur $color;
+    -moz-box-shadow: $top $left $blur $color;
+    box-shadow: $top $left $blur $color;
+  }
+}
+
+
+
+
